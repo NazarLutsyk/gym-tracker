@@ -1,0 +1,1 @@
+ALTER TABLE "workout_sets" ADD COLUMN "unplanned" boolean DEFAULT false NOT NULL;

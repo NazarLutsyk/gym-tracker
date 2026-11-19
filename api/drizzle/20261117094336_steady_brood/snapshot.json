@@ -1,0 +1,202 @@
+{
+  "type": "diff",
+  "version": "9",
+  "dialect": "postgres",
+  "id": "1bd39014-0b79-4903-bce7-ff4a0f09859b",
+  "prevIds": [
+    "d6f29748-f331-4189-8279-400de574bcd3"
+  ],
+  "footprints": [
+    {
+      "statementType": "create_index",
+      "statementTarget": [
+        "index",
+        "public",
+        "workout_exercises",
+        "workout_exercises_exercise_id_idx"
+      ],
+      "writes": [
+        "s|idx|public.workout_exercises_exercise_id_idx",
+        "n|idx|public.workout_exercises_exercise_id_idx",
+        "e|idx|public.workout_exercises_exercise_id_idx",
+        "n|rel|public.workout_exercises_exercise_id_idx"
+      ],
+      "reads": [
+        "n|tbl|public.workout_exercises",
+        "n|sch|public",
+        "n|col|public.workout_exercises.exercise_id"
+      ]
+    },
+    {
+      "statementType": "add_check",
+      "statementTarget": [
+        "table",
+        "public",
+        "exercises"
+      ],
+      "writes": [
+        "s|ck|public.exercises.exercises_popularity_check",
+        "n|ck|public.exercises.exercises_popularity_check",
+        "e|ck|public.exercises.exercises_popularity_check",
+        "n|con|public.exercises.exercises_popularity_check"
+      ],
+      "reads": [
+        "n|tbl|public.exercises",
+        "n|sch|public",
+        "n|col|public.exercises.popularity"
+      ]
+    },
+    {
+      "statementType": "add_check",
+      "statementTarget": [
+        "table",
+        "public",
+        "workout_sets"
+      ],
+      "writes": [
+        "s|ck|public.workout_sets.workout_sets_planned_weight_check",
+        "n|ck|public.workout_sets.workout_sets_planned_weight_check",
+        "e|ck|public.workout_sets.workout_sets_planned_weight_check",
+        "n|con|public.workout_sets.workout_sets_planned_weight_check"
+      ],
+      "reads": [
+        "n|tbl|public.workout_sets",
+        "n|sch|public",
+        "n|col|public.workout_sets.planned_weight"
+      ]
+    },
+    {
+      "statementType": "add_check",
+      "statementTarget": [
+        "table",
+        "public",
+        "workout_sets"
+      ],
+      "writes": [
+        "s|ck|public.workout_sets.workout_sets_weight_check",
+        "n|ck|public.workout_sets.workout_sets_weight_check",
+        "e|ck|public.workout_sets.workout_sets_weight_check",
+        "n|con|public.workout_sets.workout_sets_weight_check"
+      ],
+      "reads": [
+        "n|tbl|public.workout_sets",
+        "n|sch|public",
+        "n|col|public.workout_sets.weight"
+      ]
+    },
+    {
+      "statementType": "add_check",
+      "statementTarget": [
+        "table",
+        "public",
+        "workout_sets"
+      ],
+      "writes": [
+        "s|ck|public.workout_sets.workout_sets_planned_reps_check",
+        "n|ck|public.workout_sets.workout_sets_planned_reps_check",
+        "e|ck|public.workout_sets.workout_sets_planned_reps_check",
+        "n|con|public.workout_sets.workout_sets_planned_reps_check"
+      ],
+      "reads": [
+        "n|tbl|public.workout_sets",
+        "n|sch|public",
+        "n|col|public.workout_sets.planned_reps"
+      ]
+    },
+    {
+      "statementType": "add_check",
+      "statementTarget": [
+        "table",
+        "public",
+        "workout_sets"
+      ],
+      "writes": [
+        "s|ck|public.workout_sets.workout_sets_reps_check",
+        "n|ck|public.workout_sets.workout_sets_reps_check",
+        "e|ck|public.workout_sets.workout_sets_reps_check",
+        "n|con|public.workout_sets.workout_sets_reps_check"
+      ],
+      "reads": [
+        "n|tbl|public.workout_sets",
+        "n|sch|public",
+        "n|col|public.workout_sets.reps"
+      ]
+    }
+  ],
+  "deltas": [
+    {
+      "op": "create",
+      "row": {
+        "schema": "public",
+        "table": "workout_exercises",
+        "name": "workout_exercises_exercise_id_idx",
+        "nameExplicit": true,
+        "columns": [
+          {
+            "value": "exercise_id",
+            "isExpression": false,
+            "asc": true,
+            "nullsFirst": false,
+            "opclass": null
+          }
+        ],
+        "isUnique": false,
+        "where": null,
+        "with": "",
+        "method": "btree",
+        "concurrently": false,
+        "entityType": "indexes"
+      }
+    },
+    {
+      "op": "create",
+      "row": {
+        "schema": "public",
+        "table": "exercises",
+        "name": "exercises_popularity_check",
+        "value": "\"popularity\" between 1 and 10",
+        "entityType": "checks"
+      }
+    },
+    {
+      "op": "create",
+      "row": {
+        "schema": "public",
+        "table": "workout_sets",
+        "name": "workout_sets_planned_weight_check",
+        "value": "\"planned_weight\" between 0 and 1000",
+        "entityType": "checks"
+      }
+    },
+    {
+      "op": "create",
+      "row": {
+        "schema": "public",
+        "table": "workout_sets",
+        "name": "workout_sets_weight_check",
+        "value": "\"weight\" between 0 and 1000",
+        "entityType": "checks"
+      }
+    },
+    {
+      "op": "create",
+      "row": {
+        "schema": "public",
+        "table": "workout_sets",
+        "name": "workout_sets_planned_reps_check",
+        "value": "\"planned_reps\" between 0 and 1000",
+        "entityType": "checks"
+      }
+    },
+    {
+      "op": "create",
+      "row": {
+        "schema": "public",
+        "table": "workout_sets",
+        "name": "workout_sets_reps_check",
+        "value": "\"reps\" between 0 and 1000",
+        "entityType": "checks"
+      }
+    }
+  ]
+}

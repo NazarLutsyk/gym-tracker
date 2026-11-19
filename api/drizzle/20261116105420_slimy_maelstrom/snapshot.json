@@ -1,0 +1,44 @@
+{
+  "type": "diff",
+  "version": "9",
+  "dialect": "postgres",
+  "id": "87c424e4-2827-4c8b-b658-1fba65b3584a",
+  "prevIds": [
+    "576b10bd-dc0a-44ea-b891-2976a591386a"
+  ],
+  "footprints": [
+    {
+      "statementType": "recreate_fk",
+      "statementTarget": [
+        "table",
+        "public",
+        "workout_exercises"
+      ],
+      "writes": [
+        "s|fk|public.workout_exercises.workout_exercises_exercise_id_exercises_id_fkey",
+        "n|fk|public.workout_exercises.workout_exercises_exercise_id_exercises_id_fkey",
+        "e|fk|public.workout_exercises.workout_exercises_exercise_id_exercises_id_fkey",
+        "n|con|public.workout_exercises.workout_exercises_exercise_id_exercises_id_fkey"
+      ],
+      "reads": [
+        "n|tbl|public.workout_exercises",
+        "n|sch|public",
+        "n|tbl|public.exercises",
+        "n|sch|public",
+        "n|col|public.workout_exercises.exercise_id",
+        "n|col|public.exercises.id",
+        "e|uniqueness|public.exercises.id"
+      ],
+      "sqlHash": "8517bb1e40c8faa0"
+    }
+  ],
+  "deltas": [
+    {
+      "op": "alter",
+      "key": "fks\u0000[\"public\",\"workout_exercises\",\"workout_exercises_exercise_id_exercises_id_fkey\"]",
+      "set": {
+        "onDelete": "CASCADE"
+      }
+    }
+  ]
+}

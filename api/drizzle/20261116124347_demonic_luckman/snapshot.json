@@ -1,0 +1,69 @@
+{
+  "type": "diff",
+  "version": "9",
+  "dialect": "postgres",
+  "id": "d6f29748-f331-4189-8279-400de574bcd3",
+  "prevIds": [
+    "636496a0-cd05-413a-9273-5d0e7a9f8f65"
+  ],
+  "footprints": [
+    {
+      "statementType": "add_column",
+      "statementTarget": [
+        "column",
+        "public",
+        "workout_exercises",
+        "planned_sets"
+      ],
+      "writes": [
+        "s|col|public.workout_exercises.planned_sets",
+        "n|col|public.workout_exercises.planned_sets",
+        "e|col|public.workout_exercises.planned_sets"
+      ],
+      "reads": [
+        "n|tbl|public.workout_exercises",
+        "n|sch|public"
+      ]
+    },
+    {
+      "statementType": "drop_column",
+      "statementTarget": [
+        "column",
+        "public",
+        "workout_sets",
+        "unplanned"
+      ],
+      "writes": [
+        "s|col|public.workout_sets.unplanned",
+        "n|col|public.workout_sets.unplanned",
+        "e|col|public.workout_sets.unplanned"
+      ],
+      "reads": [
+        "n|tbl|public.workout_sets",
+        "n|sch|public"
+      ]
+    }
+  ],
+  "deltas": [
+    {
+      "op": "create",
+      "row": {
+        "schema": "public",
+        "table": "workout_exercises",
+        "name": "planned_sets",
+        "type": "integer",
+        "typeSchema": null,
+        "notNull": false,
+        "dimensions": 0,
+        "default": null,
+        "generated": null,
+        "identity": null,
+        "entityType": "columns"
+      }
+    },
+    {
+      "op": "drop",
+      "key": "columns\u0000[\"public\",\"workout_sets\",\"unplanned\"]"
+    }
+  ]
+}

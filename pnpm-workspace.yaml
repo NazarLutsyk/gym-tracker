@@ -1,0 +1,7 @@
+packages:
+  - api
+  - web
+  - shared
+allowBuilds:
+  '@scarf/scarf': false
+  argon2: true

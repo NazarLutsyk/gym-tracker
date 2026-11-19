@@ -1,0 +1,8 @@
+node_modules
+dist
+.env
+*.tsbuildinfo
+.DS_Store
+
+# Exercise images (~100 MB), downloaded by scripts/exercises/build.mjs
+api/static/exercises/

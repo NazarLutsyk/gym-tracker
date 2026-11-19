@@ -1,0 +1,3506 @@
+{
+  "3_4_Sit-Up": {
+    "nameUk": "Підйом тулуба на 3/4",
+    "popularity": 6
+  },
+  "90_90_Hamstring": {
+    "nameUk": "Розтяжка задньої поверхні стегна 90/90",
+    "popularity": 8
+  },
+  "Ab_Crunch_Machine": {
+    "nameUk": "Скручування в тренажері",
+    "popularity": 4
+  },
+  "Ab_Roller": {
+    "nameUk": "Прокатка ролика для преса",
+    "popularity": 4
+  },
+  "Adductor": {
+    "nameUk": "Самомасаж привідних м'язів роликом",
+    "popularity": 9
+  },
+  "Adductor_Groin": {
+    "nameUk": "Розтяжка привідних м'язів і паху",
+    "popularity": 8
+  },
+  "Advanced_Kettlebell_Windmill": {
+    "nameUk": "Млин з гирею (просунутий рівень)",
+    "popularity": 9
+  },
+  "Air_Bike": {
+    "nameUk": "Велосипед (скручування лежачи)",
+    "popularity": 4
+  },
+  "All_Fours_Quad_Stretch": {
+    "nameUk": "Розтяжка квадрицепса на четвереньках",
+    "popularity": 8
+  },
+  "Alternate_Hammer_Curl": {
+    "nameUk": "Почергові молоткові згинання з гантелями",
+    "popularity": 3
+  },
+  "Alternate_Heel_Touchers": {
+    "nameUk": "Почергові торкання п'ят",
+    "popularity": 5
+  },
+  "Alternate_Incline_Dumbbell_Curl": {
+    "nameUk": "Почергові згинання рук з гантелями на похилій лаві",
+    "popularity": 4
+  },
+  "Alternate_Leg_Diagonal_Bound": {
+    "nameUk": "Діагональні стрибки з ноги на ногу",
+    "popularity": 9
+  },
+  "Alternating_Cable_Shoulder_Press": {
+    "nameUk": "Почерговий жим на плечі на блоці",
+    "popularity": 7
+  },
+  "Alternating_Deltoid_Raise": {
+    "nameUk": "Почергові підйоми гантелей на дельти",
+    "popularity": 7
+  },
+  "Alternating_Floor_Press": {
+    "nameUk": "Почерговий жим гир лежачи на підлозі",
+    "popularity": 7
+  },
+  "Alternating_Hang_Clean": {
+    "nameUk": "Почергове взяття гирі на груди з вису",
+    "popularity": 8
+  },
+  "Alternating_Kettlebell_Press": {
+    "nameUk": "Почерговий жим гир",
+    "popularity": 6
+  },
+  "Alternating_Kettlebell_Row": {
+    "nameUk": "Почергова тяга гир",
+    "popularity": 6
+  },
+  "Alternating_Renegade_Row": {
+    "nameUk": "Почергова тяга гир в планці («ренегат»)",
+    "popularity": 7
+  },
+  "Ankle_Circles": {
+    "nameUk": "Кругові рухи щиколоткою",
+    "popularity": 8
+  },
+  "Ankle_On_The_Knee": {
+    "nameUk": "Розтяжка сідниць «щиколотка на коліні»",
+    "popularity": 8
+  },
+  "Anterior_Tibialis-SMR": {
+    "nameUk": "Самомасаж передньої поверхні гомілки",
+    "popularity": 10
+  },
+  "Anti-Gravity_Press": {
+    "nameUk": "Жим «антигравітація» зі штангою",
+    "popularity": 9
+  },
+  "Arm_Circles": {
+    "nameUk": "Кругові рухи руками",
+    "popularity": 7
+  },
+  "Arnold_Dumbbell_Press": {
+    "nameUk": "Жим Арнольда",
+    "popularity": 4
+  },
+  "Around_The_Worlds": {
+    "nameUk": "«Навколо світу» з гантелями лежачи",
+    "popularity": 8
+  },
+  "Atlas_Stone_Trainer": {
+    "nameUk": "Підйом каменю Атласа на тренажері",
+    "popularity": 10
+  },
+  "Atlas_Stones": {
+    "nameUk": "Камені Атласа",
+    "popularity": 9
+  },
+  "Axle_Deadlift": {
+    "nameUk": "Станова тяга з товстим грифом",
+    "popularity": 8
+  },
+  "Back_Flyes_-_With_Bands": {
+    "nameUk": "Зворотні розведення з еспандером",
+    "popularity": 6
+  },
+  "Backward_Drag": {
+    "nameUk": "Тяга саней спиною вперед",
+    "popularity": 9
+  },
+  "Backward_Medicine_Ball_Throw": {
+    "nameUk": "Кидок медболу назад через голову",
+    "popularity": 8
+  },
+  "Balance_Board": {
+    "nameUk": "Балансувальна дошка",
+    "popularity": 8
+  },
+  "Ball_Leg_Curl": {
+    "nameUk": "Згинання ніг на фітболі",
+    "popularity": 6
+  },
+  "Band_Assisted_Pull-Up": {
+    "nameUk": "Підтягування з допомогою еспандера",
+    "popularity": 4
+  },
+  "Band_Good_Morning": {
+    "nameUk": "Нахили «гуд монінг» з еспандером",
+    "popularity": 7
+  },
+  "Band_Good_Morning_Pull_Through": {
+    "nameUk": "Протягування еспандера між ніг",
+    "popularity": 8
+  },
+  "Band_Hip_Adductions": {
+    "nameUk": "Приведення стегна з еспандером",
+    "popularity": 7
+  },
+  "Band_Pull_Apart": {
+    "nameUk": "Розведення еспандера перед собою",
+    "popularity": 5
+  },
+  "Band_Skull_Crusher": {
+    "nameUk": "Французький жим з еспандером лежачи",
+    "popularity": 7
+  },
+  "Barbell_Ab_Rollout": {
+    "nameUk": "Прокатка преса зі штангою",
+    "popularity": 6
+  },
+  "Barbell_Ab_Rollout_-_On_Knees": {
+    "nameUk": "Прокатка преса зі штангою з колін",
+    "popularity": 6
+  },
+  "Barbell_Bench_Press_-_Medium_Grip": {
+    "nameUk": "Жим штанги лежачи середнім хватом",
+    "popularity": 1
+  },
+  "Barbell_Curl": {
+    "nameUk": "Згинання рук зі штангою",
+    "popularity": 2
+  },
+  "Barbell_Curls_Lying_Against_An_Incline": {
+    "nameUk": "Згинання рук зі штангою лежачи на похилій лаві",
+    "popularity": 7
+  },
+  "Barbell_Deadlift": {
+    "nameUk": "Станова тяга зі штангою",
+    "popularity": 1
+  },
+  "Barbell_Full_Squat": {
+    "nameUk": "Глибокі присідання зі штангою",
+    "popularity": 1
+  },
+  "Barbell_Glute_Bridge": {
+    "nameUk": "Сідничний місток зі штангою",
+    "popularity": 3
+  },
+  "Barbell_Guillotine_Bench_Press": {
+    "nameUk": "Жим штанги лежачи «гільйотина»",
+    "popularity": 8
+  },
+  "Barbell_Hack_Squat": {
+    "nameUk": "Гак-присідання зі штангою",
+    "popularity": 6
+  },
+  "Barbell_Hip_Thrust": {
+    "nameUk": "Хіп-траст зі штангою",
+    "popularity": 2
+  },
+  "Barbell_Incline_Bench_Press_-_Medium_Grip": {
+    "nameUk": "Жим штанги на похилій лаві середнім хватом",
+    "popularity": 2
+  },
+  "Barbell_Incline_Shoulder_Raise": {
+    "nameUk": "Підйоми штанги на плечі на похилій лаві",
+    "popularity": 8
+  },
+  "Barbell_Lunge": {
+    "nameUk": "Випади зі штангою",
+    "popularity": 2
+  },
+  "Barbell_Rear_Delt_Row": {
+    "nameUk": "Тяга штанги на задні дельти",
+    "popularity": 6
+  },
+  "Barbell_Rollout_from_Bench": {
+    "nameUk": "Прокатка преса зі штангою з лави",
+    "popularity": 8
+  },
+  "Barbell_Seated_Calf_Raise": {
+    "nameUk": "Підйоми на носки сидячи зі штангою",
+    "popularity": 5
+  },
+  "Barbell_Shoulder_Press": {
+    "nameUk": "Жим штанги на плечі сидячи",
+    "popularity": 2
+  },
+  "Barbell_Shrug": {
+    "nameUk": "Шраги зі штангою",
+    "popularity": 3
+  },
+  "Barbell_Shrug_Behind_The_Back": {
+    "nameUk": "Шраги зі штангою за спиною",
+    "popularity": 6
+  },
+  "Barbell_Side_Bend": {
+    "nameUk": "Бічні нахили зі штангою",
+    "popularity": 6
+  },
+  "Barbell_Side_Split_Squat": {
+    "nameUk": "Бічні випади зі штангою",
+    "popularity": 7
+  },
+  "Barbell_Squat": {
+    "nameUk": "Присідання зі штангою",
+    "popularity": 1
+  },
+  "Barbell_Squat_To_A_Bench": {
+    "nameUk": "Присідання на лаву зі штангою",
+    "popularity": 4
+  },
+  "Barbell_Step_Ups": {
+    "nameUk": "Підйоми на платформу зі штангою",
+    "popularity": 4
+  },
+  "Barbell_Walking_Lunge": {
+    "nameUk": "Випади в кроці зі штангою",
+    "popularity": 3
+  },
+  "Battling_Ropes": {
+    "nameUk": "Бойові канати",
+    "popularity": 5
+  },
+  "Bear_Crawl_Sled_Drags": {
+    "nameUk": "Ведмежа хода з санями",
+    "popularity": 9
+  },
+  "Behind_Head_Chest_Stretch": {
+    "nameUk": "Розтяжка грудей з руками за головою",
+    "popularity": 7
+  },
+  "Bench_Dips": {
+    "nameUk": "Зворотні віджимання від лави",
+    "popularity": 3
+  },
+  "Bench_Jump": {
+    "nameUk": "Стрибки через лаву",
+    "popularity": 7
+  },
+  "Bench_Press_-_Powerlifting": {
+    "nameUk": "Жим лежачи (пауерліфтинг)",
+    "popularity": 3
+  },
+  "Bench_Press_-_With_Bands": {
+    "nameUk": "Жим лежачи з еспандером",
+    "popularity": 7
+  },
+  "Bench_Press_with_Chains": {
+    "nameUk": "Жим штанги лежачи з ланцюгами",
+    "popularity": 8
+  },
+  "Bench_Sprint": {
+    "nameUk": "Швидкі зашагування на лаву",
+    "popularity": 8
+  },
+  "Bent-Arm_Barbell_Pullover": {
+    "nameUk": "Пуловер зі штангою на зігнутих руках",
+    "popularity": 6
+  },
+  "Bent-Arm_Dumbbell_Pullover": {
+    "nameUk": "Пуловер з гантеллю на зігнутих руках",
+    "popularity": 4
+  },
+  "Bent-Knee_Hip_Raise": {
+    "nameUk": "Підйом таза із зігнутими колінами",
+    "popularity": 5
+  },
+  "Bent_Over_Barbell_Row": {
+    "nameUk": "Тяга штанги в нахилі",
+    "popularity": 2
+  },
+  "Bent_Over_Dumbbell_Rear_Delt_Raise_With_Head_On_Bench": {
+    "nameUk": "Махи гантелей на задні дельти в нахилі з опорою головою на лаву",
+    "popularity": 6
+  },
+  "Bent_Over_Low-Pulley_Side_Lateral": {
+    "nameUk": "Махи однією рукою в нахилі на нижньому блоці",
+    "popularity": 7
+  },
+  "Bent_Over_One-Arm_Long_Bar_Row": {
+    "nameUk": "Тяга кінця штанги однією рукою в нахилі",
+    "popularity": 5
+  },
+  "Bent_Over_Two-Arm_Long_Bar_Row": {
+    "nameUk": "Тяга Т-грифа в нахилі",
+    "popularity": 3
+  },
+  "Bent_Over_Two-Dumbbell_Row": {
+    "nameUk": "Тяга гантелей в нахилі",
+    "popularity": 2
+  },
+  "Bent_Over_Two-Dumbbell_Row_With_Palms_In": {
+    "nameUk": "Тяга гантелей в нахилі нейтральним хватом",
+    "popularity": 5
+  },
+  "Bent_Press": {
+    "nameUk": "Жим у нахилі з гирею",
+    "popularity": 9
+  },
+  "Bicycling": {
+    "nameUk": "Їзда на велосипеді",
+    "popularity": 6
+  },
+  "Bicycling_Stationary": {
+    "nameUk": "Велотренажер",
+    "popularity": 3
+  },
+  "Board_Press": {
+    "nameUk": "Жим лежачи з дошками",
+    "popularity": 8
+  },
+  "Body-Up": {
+    "nameUk": "Підйом з планки на ліктях на прямі руки",
+    "popularity": 9
+  },
+  "Body_Tricep_Press": {
+    "nameUk": "Розгинання рук на трицепс з власною вагою",
+    "popularity": 8
+  },
+  "Bodyweight_Flyes": {
+    "nameUk": "Розведення рук з власною вагою",
+    "popularity": 9
+  },
+  "Bodyweight_Mid_Row": {
+    "nameUk": "Горизонтальна тяга з власною вагою",
+    "popularity": 7
+  },
+  "Bodyweight_Squat": {
+    "nameUk": "Присідання з власною вагою",
+    "popularity": 2
+  },
+  "Bodyweight_Walking_Lunge": {
+    "nameUk": "Випади в кроці без обтяження",
+    "popularity": 3
+  },
+  "Bosu_Ball_Cable_Crunch_With_Side_Bends": {
+    "nameUk": "Скручування з нахилами вбік на босу з блоком",
+    "popularity": 9
+  },
+  "Bottoms-Up_Clean_From_The_Hang_Position": {
+    "nameUk": "Взяття гирі на груди догори дном з вису",
+    "popularity": 9
+  },
+  "Bottoms_Up": {
+    "nameUk": "Підйом таза вгору лежачи на спині",
+    "popularity": 7
+  },
+  "Box_Jump_Multiple_Response": {
+    "nameUk": "Серійні стрибки на тумбу",
+    "popularity": 4
+  },
+  "Box_Skip": {
+    "nameUk": "Стрибки-скіпи на тумбу",
+    "popularity": 9
+  },
+  "Box_Squat": {
+    "nameUk": "Присідання на ящик зі штангою",
+    "popularity": 4
+  },
+  "Box_Squat_with_Bands": {
+    "nameUk": "Присідання на ящик зі штангою та еспандерами",
+    "popularity": 8
+  },
+  "Box_Squat_with_Chains": {
+    "nameUk": "Присідання на ящик зі штангою та ланцюгами",
+    "popularity": 8
+  },
+  "Brachialis-SMR": {
+    "nameUk": "Самомасаж плечового м'яза роликом",
+    "popularity": 10
+  },
+  "Bradford_Rocky_Presses": {
+    "nameUk": "Жим Бредфорда-Роккі",
+    "popularity": 9
+  },
+  "Butt-Ups": {
+    "nameUk": "Підйом таза в планці",
+    "popularity": 8
+  },
+  "Butt_Lift_Bridge": {
+    "nameUk": "Сідничний місток",
+    "popularity": 3
+  },
+  "Butterfly": {
+    "nameUk": "Зведення рук у тренажері «метелик»",
+    "popularity": 3
+  },
+  "Cable_Chest_Press": {
+    "nameUk": "Жим на груди на блоці",
+    "popularity": 6
+  },
+  "Cable_Crossover": {
+    "nameUk": "Зведення рук у кросовері",
+    "popularity": 2
+  },
+  "Cable_Crunch": {
+    "nameUk": "Скручування на блоці стоячи на колінах («молитва»)",
+    "popularity": 3
+  },
+  "Cable_Deadlifts": {
+    "nameUk": "Станова тяга на блоці",
+    "popularity": 8
+  },
+  "Cable_Hammer_Curls_-_Rope_Attachment": {
+    "nameUk": "Молоткові згинання на блоці з канатною рукояткою",
+    "popularity": 3
+  },
+  "Cable_Hip_Adduction": {
+    "nameUk": "Приведення стегна на блоці",
+    "popularity": 6
+  },
+  "Cable_Incline_Pushdown": {
+    "nameUk": "Тяга блоку прямими руками на похилій лаві",
+    "popularity": 8
+  },
+  "Cable_Incline_Triceps_Extension": {
+    "nameUk": "Розгинання рук на трицепс на блоці на похилій лаві",
+    "popularity": 6
+  },
+  "Cable_Internal_Rotation": {
+    "nameUk": "Внутрішня ротація плеча на блоці",
+    "popularity": 6
+  },
+  "Cable_Iron_Cross": {
+    "nameUk": "Залізний хрест на блоці",
+    "popularity": 7
+  },
+  "Cable_Judo_Flip": {
+    "nameUk": "Кидок дзюдоїста на блоці",
+    "popularity": 9
+  },
+  "Cable_Lying_Triceps_Extension": {
+    "nameUk": "Розгинання рук на трицепс лежачи на блоці",
+    "popularity": 6
+  },
+  "Cable_One_Arm_Tricep_Extension": {
+    "nameUk": "Розгинання однієї руки на трицепс на блоці",
+    "popularity": 4
+  },
+  "Cable_Preacher_Curl": {
+    "nameUk": "Згинання рук на лаві Скотта на блоці",
+    "popularity": 5
+  },
+  "Cable_Rear_Delt_Fly": {
+    "nameUk": "Розведення на задні дельти на блоці",
+    "popularity": 5
+  },
+  "Cable_Reverse_Crunch": {
+    "nameUk": "Зворотні скручування на блоці",
+    "popularity": 7
+  },
+  "Cable_Rope_Overhead_Triceps_Extension": {
+    "nameUk": "Розгинання рук з-за голови на блоці з канатною рукояткою",
+    "popularity": 3
+  },
+  "Cable_Rope_Rear-Delt_Rows": {
+    "nameUk": "Тяга на задні дельти на блоці з канатною рукояткою",
+    "popularity": 4
+  },
+  "Cable_Russian_Twists": {
+    "nameUk": "Російські скручування на блоці",
+    "popularity": 7
+  },
+  "Cable_Seated_Crunch": {
+    "nameUk": "Скручування сидячи на блоці",
+    "popularity": 6
+  },
+  "Cable_Seated_Lateral_Raise": {
+    "nameUk": "Махи в сторони сидячи на блоці",
+    "popularity": 6
+  },
+  "Cable_Shoulder_Press": {
+    "nameUk": "Жим на плечі на блоці",
+    "popularity": 6
+  },
+  "Cable_Shrugs": {
+    "nameUk": "Шраги на блоці",
+    "popularity": 6
+  },
+  "Cable_Wrist_Curl": {
+    "nameUk": "Згинання зап'ясть на блоці",
+    "popularity": 7
+  },
+  "Calf-Machine_Shoulder_Shrug": {
+    "nameUk": "Шраги в тренажері для литок",
+    "popularity": 8
+  },
+  "Calf_Press": {
+    "nameUk": "Жим на литки в тренажері",
+    "popularity": 4
+  },
+  "Calf_Press_On_The_Leg_Press_Machine": {
+    "nameUk": "Жим на литки в тренажері для жиму ногами",
+    "popularity": 3
+  },
+  "Calf_Raise_On_A_Dumbbell": {
+    "nameUk": "Підйоми на носки стоячи на гантелі",
+    "popularity": 8
+  },
+  "Calf_Raises_-_With_Bands": {
+    "nameUk": "Підйоми на носки з еспандером",
+    "popularity": 7
+  },
+  "Calf_Stretch_Elbows_Against_Wall": {
+    "nameUk": "Розтяжка литок з опорою ліктями на стіну",
+    "popularity": 7
+  },
+  "Calf_Stretch_Hands_Against_Wall": {
+    "nameUk": "Розтяжка литок з опорою руками на стіну",
+    "popularity": 6
+  },
+  "Calves-SMR": {
+    "nameUk": "Самомасаж литок роликом",
+    "popularity": 9
+  },
+  "Car_Deadlift": {
+    "nameUk": "Станова тяга автомобіля",
+    "popularity": 10
+  },
+  "Car_Drivers": {
+    "nameUk": "«Кермо» з диском",
+    "popularity": 8
+  },
+  "Carioca_Quick_Step": {
+    "nameUk": "Каріока (швидкі приставні кроки)",
+    "popularity": 8
+  },
+  "Cat_Stretch": {
+    "nameUk": "Розтяжка «кішка»",
+    "popularity": 6
+  },
+  "Catch_and_Overhead_Throw": {
+    "nameUk": "Ловля та кидок медболу над головою",
+    "popularity": 8
+  },
+  "Chain_Handle_Extension": {
+    "nameUk": "Розгинання рук на трицепс з ланцюгами",
+    "popularity": 9
+  },
+  "Chain_Press": {
+    "nameUk": "Жим ланцюгів лежачи",
+    "popularity": 9
+  },
+  "Chair_Leg_Extended_Stretch": {
+    "nameUk": "Розтяжка з витягнутою ногою на стільці",
+    "popularity": 9
+  },
+  "Chair_Lower_Back_Stretch": {
+    "nameUk": "Розтяжка попереку на стільці",
+    "popularity": 8
+  },
+  "Chair_Squat": {
+    "nameUk": "Присідання на стілець",
+    "popularity": 7
+  },
+  "Chair_Upper_Body_Stretch": {
+    "nameUk": "Розтяжка верхньої частини тіла на стільці",
+    "popularity": 9
+  },
+  "Chest_And_Front_Of_Shoulder_Stretch": {
+    "nameUk": "Розтяжка грудей та передньої частини плеча",
+    "popularity": 7
+  },
+  "Chest_Push_from_3_point_stance": {
+    "nameUk": "Жим медболу від грудей з упору на 3 точки",
+    "popularity": 9
+  },
+  "Chest_Push_multiple_response": {
+    "nameUk": "Серійний жим медболу від грудей",
+    "popularity": 8
+  },
+  "Chest_Push_single_response": {
+    "nameUk": "Одиночний жим медболу від грудей",
+    "popularity": 8
+  },
+  "Chest_Push_with_Run_Release": {
+    "nameUk": "Жим медболу від грудей з вибіганням",
+    "popularity": 9
+  },
+  "Chest_Stretch_on_Stability_Ball": {
+    "nameUk": "Розтяжка грудей на фітболі",
+    "popularity": 8
+  },
+  "Childs_Pose": {
+    "nameUk": "Поза дитини",
+    "popularity": 6
+  },
+  "Chin-Up": {
+    "nameUk": "Підтягування зворотним хватом",
+    "popularity": 2
+  },
+  "Chin_To_Chest_Stretch": {
+    "nameUk": "Розтяжка шиї (підборіддя до грудей)",
+    "popularity": 8
+  },
+  "Circus_Bell": {
+    "nameUk": "Жим циркової гантелі",
+    "popularity": 10
+  },
+  "Clean": {
+    "nameUk": "Взяття штанги на груди в сід",
+    "popularity": 5
+  },
+  "Clean_Deadlift": {
+    "nameUk": "Поштовхова тяга",
+    "popularity": 8
+  },
+  "Clean_Pull": {
+    "nameUk": "Поштовхова тяга з підривом",
+    "popularity": 8
+  },
+  "Clean_Shrug": {
+    "nameUk": "Поштовхові шраги",
+    "popularity": 8
+  },
+  "Clean_and_Jerk": {
+    "nameUk": "Взяття на груди та поштовх",
+    "popularity": 6
+  },
+  "Clean_and_Press": {
+    "nameUk": "Взяття штанги на груди та жим",
+    "popularity": 6
+  },
+  "Clean_from_Blocks": {
+    "nameUk": "Взяття на груди з плінтів",
+    "popularity": 9
+  },
+  "Clock_Push-Up": {
+    "nameUk": "Віджимання «годинник»",
+    "popularity": 8
+  },
+  "Close-Grip_Barbell_Bench_Press": {
+    "nameUk": "Жим штанги лежачи вузьким хватом",
+    "popularity": 2
+  },
+  "Close-Grip_Dumbbell_Press": {
+    "nameUk": "Жим гантелей лежачи вузьким хватом",
+    "popularity": 5
+  },
+  "Close-Grip_EZ-Bar_Curl_with_Band": {
+    "nameUk": "Згинання рук з EZ-грифом вузьким хватом з еспандером",
+    "popularity": 8
+  },
+  "Close-Grip_EZ-Bar_Press": {
+    "nameUk": "Жим EZ-грифа лежачи вузьким хватом",
+    "popularity": 5
+  },
+  "Close-Grip_EZ_Bar_Curl": {
+    "nameUk": "Згинання рук з EZ-грифом вузьким хватом",
+    "popularity": 4
+  },
+  "Close-Grip_Front_Lat_Pulldown": {
+    "nameUk": "Тяга верхнього блоку вузьким хватом до грудей",
+    "popularity": 3
+  },
+  "Close-Grip_Push-Up_off_of_a_Dumbbell": {
+    "nameUk": "Віджимання вузьким хватом від гантелі",
+    "popularity": 6
+  },
+  "Close-Grip_Standing_Barbell_Curl": {
+    "nameUk": "Згинання рук зі штангою вузьким хватом стоячи",
+    "popularity": 4
+  },
+  "Cocoons": {
+    "nameUk": "Скручування «кокон»",
+    "popularity": 8
+  },
+  "Conans_Wheel": {
+    "nameUk": "Колесо Конана",
+    "popularity": 10
+  },
+  "Concentration_Curls": {
+    "nameUk": "Концентроване згинання руки з гантеллю",
+    "popularity": 3
+  },
+  "Cross-Body_Crunch": {
+    "nameUk": "Діагональні скручування",
+    "popularity": 5
+  },
+  "Cross_Body_Hammer_Curl": {
+    "nameUk": "Перехресні молоткові згинання з гантелями",
+    "popularity": 4
+  },
+  "Cross_Over_-_With_Bands": {
+    "nameUk": "Зведення рук з еспандером",
+    "popularity": 7
+  },
+  "Crossover_Reverse_Lunge": {
+    "nameUk": "Зворотний випад навхрест",
+    "popularity": 8
+  },
+  "Crucifix": {
+    "nameUk": "Утримання «розп'яття»",
+    "popularity": 10
+  },
+  "Crunch_-_Hands_Overhead": {
+    "nameUk": "Скручування з руками над головою",
+    "popularity": 5
+  },
+  "Crunch_-_Legs_On_Exercise_Ball": {
+    "nameUk": "Скручування з ногами на фітболі",
+    "popularity": 6
+  },
+  "Crunches": {
+    "nameUk": "Скручування",
+    "popularity": 2
+  },
+  "Cuban_Press": {
+    "nameUk": "Кубинський жим з гантелями",
+    "popularity": 7
+  },
+  "Dancers_Stretch": {
+    "nameUk": "Розтяжка танцюриста",
+    "popularity": 8
+  },
+  "Dead_Bug": {
+    "nameUk": "Мертвий жук",
+    "popularity": 5
+  },
+  "Deadlift_with_Bands": {
+    "nameUk": "Станова тяга з еспандерами",
+    "popularity": 8
+  },
+  "Deadlift_with_Chains": {
+    "nameUk": "Станова тяга з ланцюгами",
+    "popularity": 8
+  },
+  "Decline_Barbell_Bench_Press": {
+    "nameUk": "Жим штанги на похилій лаві головою вниз",
+    "popularity": 4
+  },
+  "Decline_Close-Grip_Bench_To_Skull_Crusher": {
+    "nameUk": "Жим вузьким хватом з переходом у французький жим на похилій лаві головою вниз",
+    "popularity": 9
+  },
+  "Decline_Crunch": {
+    "nameUk": "Скручування на похилій лаві головою вниз",
+    "popularity": 5
+  },
+  "Decline_Dumbbell_Bench_Press": {
+    "nameUk": "Жим гантелей на похилій лаві головою вниз",
+    "popularity": 5
+  },
+  "Decline_Dumbbell_Flyes": {
+    "nameUk": "Розведення гантелей на похилій лаві головою вниз",
+    "popularity": 6
+  },
+  "Decline_Dumbbell_Triceps_Extension": {
+    "nameUk": "Французький жим з гантелями на похилій лаві головою вниз",
+    "popularity": 6
+  },
+  "Decline_EZ_Bar_Triceps_Extension": {
+    "nameUk": "Французький жим з EZ-грифом на похилій лаві головою вниз",
+    "popularity": 6
+  },
+  "Decline_Oblique_Crunch": {
+    "nameUk": "Косі скручування на похилій лаві головою вниз",
+    "popularity": 6
+  },
+  "Decline_Push-Up": {
+    "nameUk": "Віджимання з ногами на підвищенні",
+    "popularity": 4
+  },
+  "Decline_Reverse_Crunch": {
+    "nameUk": "Зворотні скручування на похилій лаві",
+    "popularity": 6
+  },
+  "Decline_Smith_Press": {
+    "nameUk": "Жим у тренажері Сміта на похилій лаві головою вниз",
+    "popularity": 7
+  },
+  "Deficit_Deadlift": {
+    "nameUk": "Станова тяга з дефіцитом",
+    "popularity": 6
+  },
+  "Depth_Jump_Leap": {
+    "nameUk": "Стрибок у глибину з вистрибуванням",
+    "popularity": 7
+  },
+  "Dip_Machine": {
+    "nameUk": "Віджимання в тренажері",
+    "popularity": 4
+  },
+  "Dips_-_Chest_Version": {
+    "nameUk": "Віджимання на брусах на груди",
+    "popularity": 2
+  },
+  "Dips_-_Triceps_Version": {
+    "nameUk": "Віджимання на брусах на трицепс",
+    "popularity": 2
+  },
+  "Donkey_Calf_Raises": {
+    "nameUk": "Підйоми на носки «ослик»",
+    "popularity": 7
+  },
+  "Double_Kettlebell_Alternating_Hang_Clean": {
+    "nameUk": "Почергове взяття двох гир на груди з вису",
+    "popularity": 8
+  },
+  "Double_Kettlebell_Jerk": {
+    "nameUk": "Поштовх двох гир",
+    "popularity": 8
+  },
+  "Double_Kettlebell_Push_Press": {
+    "nameUk": "Швунговий жим двох гир",
+    "popularity": 7
+  },
+  "Double_Kettlebell_Snatch": {
+    "nameUk": "Ривок двох гир",
+    "popularity": 8
+  },
+  "Double_Kettlebell_Windmill": {
+    "nameUk": "Млин з двома гирями",
+    "popularity": 9
+  },
+  "Double_Leg_Butt_Kick": {
+    "nameUk": "Стрибки з торканням п'ятами сідниць",
+    "popularity": 8
+  },
+  "Downward_Facing_Balance": {
+    "nameUk": "Баланс на фітболі обличчям вниз",
+    "popularity": 9
+  },
+  "Drag_Curl": {
+    "nameUk": "Тягове згинання рук зі штангою",
+    "popularity": 6
+  },
+  "Drop_Push": {
+    "nameUk": "Пліометричні віджимання з падінням",
+    "popularity": 8
+  },
+  "Dumbbell_Alternate_Bicep_Curl": {
+    "nameUk": "Почергове згинання рук з гантелями на біцепс",
+    "popularity": 2
+  },
+  "Dumbbell_Bench_Press": {
+    "nameUk": "Жим гантелей лежачи",
+    "popularity": 2
+  },
+  "Dumbbell_Bench_Press_with_Neutral_Grip": {
+    "nameUk": "Жим гантелей лежачи нейтральним хватом",
+    "popularity": 5
+  },
+  "Dumbbell_Bicep_Curl": {
+    "nameUk": "Згинання рук з гантелями на біцепс",
+    "popularity": 2
+  },
+  "Dumbbell_Clean": {
+    "nameUk": "Взяття гантелей на груди",
+    "popularity": 7
+  },
+  "Dumbbell_Floor_Press": {
+    "nameUk": "Жим гантелей лежачи на підлозі",
+    "popularity": 6
+  },
+  "Dumbbell_Flyes": {
+    "nameUk": "Розведення гантелей лежачи",
+    "popularity": 3
+  },
+  "Dumbbell_Incline_Row": {
+    "nameUk": "Тяга гантелей лежачи грудьми на похилій лаві",
+    "popularity": 4
+  },
+  "Dumbbell_Incline_Shoulder_Raise": {
+    "nameUk": "Підйоми гантелей на плечі на похилій лаві",
+    "popularity": 8
+  },
+  "Dumbbell_Lunges": {
+    "nameUk": "Випади з гантелями",
+    "popularity": 2
+  },
+  "Dumbbell_Lying_One-Arm_Rear_Lateral_Raise": {
+    "nameUk": "Махи однією рукою на задню дельту лежачи",
+    "popularity": 7
+  },
+  "Dumbbell_Lying_Pronation": {
+    "nameUk": "Пронація передпліччя з гантеллю лежачи",
+    "popularity": 9
+  },
+  "Dumbbell_Lying_Rear_Lateral_Raise": {
+    "nameUk": "Розведення гантелей на задні дельти лежачи",
+    "popularity": 6
+  },
+  "Dumbbell_Lying_Supination": {
+    "nameUk": "Супінація передпліччя з гантеллю лежачи",
+    "popularity": 9
+  },
+  "Dumbbell_One-Arm_Shoulder_Press": {
+    "nameUk": "Жим гантелі однією рукою на плечі",
+    "popularity": 4
+  },
+  "Dumbbell_One-Arm_Triceps_Extension": {
+    "nameUk": "Розгинання руки з гантеллю з-за голови сидячи",
+    "popularity": 4
+  },
+  "Dumbbell_One-Arm_Upright_Row": {
+    "nameUk": "Тяга гантелі до підборіддя однією рукою",
+    "popularity": 6
+  },
+  "Dumbbell_Prone_Incline_Curl": {
+    "nameUk": "Згинання рук з гантелями лежачи животом на похилій лаві",
+    "popularity": 6
+  },
+  "Dumbbell_Raise": {
+    "nameUk": "Підйом гантелей через сторони",
+    "popularity": 7
+  },
+  "Dumbbell_Rear_Lunge": {
+    "nameUk": "Зворотні випади з гантелями",
+    "popularity": 3
+  },
+  "Dumbbell_Scaption": {
+    "nameUk": "Підйом гантелей у площині лопатки (скапція)",
+    "popularity": 7
+  },
+  "Dumbbell_Seated_Box_Jump": {
+    "nameUk": "Стрибок на тумбу з положення сидячи з гантелями",
+    "popularity": 9
+  },
+  "Dumbbell_Seated_One-Leg_Calf_Raise": {
+    "nameUk": "Підйом на носок однієї ноги сидячи з гантеллю",
+    "popularity": 6
+  },
+  "Dumbbell_Shoulder_Press": {
+    "nameUk": "Жим гантелей на плечі сидячи",
+    "popularity": 2
+  },
+  "Dumbbell_Shrug": {
+    "nameUk": "Шраги з гантелями",
+    "popularity": 3
+  },
+  "Dumbbell_Side_Bend": {
+    "nameUk": "Нахили вбік з гантеллю",
+    "popularity": 5
+  },
+  "Dumbbell_Squat": {
+    "nameUk": "Присідання з гантелями",
+    "popularity": 3
+  },
+  "Dumbbell_Squat_To_A_Bench": {
+    "nameUk": "Присідання на лаву з гантелями",
+    "popularity": 6
+  },
+  "Dumbbell_Step_Ups": {
+    "nameUk": "Підйоми на платформу з гантелями",
+    "popularity": 3
+  },
+  "Dumbbell_Tricep_Extension_-Pronated_Grip": {
+    "nameUk": "Французький жим з гантелями лежачи пронованим хватом",
+    "popularity": 7
+  },
+  "Dynamic_Back_Stretch": {
+    "nameUk": "Динамічна розтяжка спини",
+    "popularity": 7
+  },
+  "Dynamic_Chest_Stretch": {
+    "nameUk": "Динамічна розтяжка грудей",
+    "popularity": 6
+  },
+  "EZ-Bar_Curl": {
+    "nameUk": "Згинання рук з EZ-грифом",
+    "popularity": 3
+  },
+  "EZ-Bar_Skullcrusher": {
+    "nameUk": "Французький жим з EZ-грифом лежачи",
+    "popularity": 3
+  },
+  "Elbow_Circles": {
+    "nameUk": "Кругові рухи ліктями",
+    "popularity": 8
+  },
+  "Elbow_to_Knee": {
+    "nameUk": "Скручування лікоть до коліна",
+    "popularity": 5
+  },
+  "Elbows_Back": {
+    "nameUk": "Розтяжка грудей «лікті назад»",
+    "popularity": 8
+  },
+  "Elevated_Back_Lunge": {
+    "nameUk": "Зворотні випади з підвищення зі штангою",
+    "popularity": 7
+  },
+  "Elevated_Cable_Rows": {
+    "nameUk": "Тяга нижнього блоку сидячи на підвищенні",
+    "popularity": 7
+  },
+  "Elliptical_Trainer": {
+    "nameUk": "Еліптичний тренажер (орбітрек)",
+    "popularity": 3
+  },
+  "Exercise_Ball_Crunch": {
+    "nameUk": "Скручування на фітболі",
+    "popularity": 5
+  },
+  "Exercise_Ball_Pull-In": {
+    "nameUk": "Підтягування колін на фітболі",
+    "popularity": 6
+  },
+  "Extended_Range_One-Arm_Kettlebell_Floor_Press": {
+    "nameUk": "Жим гирі однією рукою лежачи на підлозі з повною амплітудою",
+    "popularity": 9
+  },
+  "External_Rotation": {
+    "nameUk": "Зовнішня ротація плеча з гантеллю",
+    "popularity": 5
+  },
+  "External_Rotation_with_Band": {
+    "nameUk": "Зовнішня ротація плеча з еспандером",
+    "popularity": 6
+  },
+  "External_Rotation_with_Cable": {
+    "nameUk": "Зовнішня ротація плеча на блоці",
+    "popularity": 5
+  },
+  "Face_Pull": {
+    "nameUk": "Тяга каната до обличчя (фейс-пул)",
+    "popularity": 3
+  },
+  "Farmers_Walk": {
+    "nameUk": "Прогулянка фермера",
+    "popularity": 4
+  },
+  "Fast_Skipping": {
+    "nameUk": "Швидкий скіпінг",
+    "popularity": 8
+  },
+  "Finger_Curls": {
+    "nameUk": "Згинання пальців зі штангою",
+    "popularity": 8
+  },
+  "Flat_Bench_Cable_Flyes": {
+    "nameUk": "Розведення рук на блоках лежачи на лаві",
+    "popularity": 4
+  },
+  "Flat_Bench_Leg_Pull-In": {
+    "nameUk": "Підтягування колін лежачи на лаві",
+    "popularity": 6
+  },
+  "Flat_Bench_Lying_Leg_Raise": {
+    "nameUk": "Підйом ніг лежачи на лаві",
+    "popularity": 4
+  },
+  "Flexor_Incline_Dumbbell_Curls": {
+    "nameUk": "Згинання рук з гантелями на похилій лаві із зігнутими кистями",
+    "popularity": 7
+  },
+  "Floor_Glute-Ham_Raise": {
+    "nameUk": "Нордичні згинання ніг на підлозі",
+    "popularity": 6
+  },
+  "Floor_Press": {
+    "nameUk": "Жим штанги лежачи на підлозі",
+    "popularity": 5
+  },
+  "Floor_Press_with_Chains": {
+    "nameUk": "Жим штанги лежачи на підлозі з ланцюгами",
+    "popularity": 9
+  },
+  "Flutter_Kicks": {
+    "nameUk": "Почергові махи ногами лежачи",
+    "popularity": 5
+  },
+  "Foot-SMR": {
+    "nameUk": "Самомасаж стопи",
+    "popularity": 10
+  },
+  "Forward_Drag_with_Press": {
+    "nameUk": "Тяга саней вперед з жимом",
+    "popularity": 10
+  },
+  "Frankenstein_Squat": {
+    "nameUk": "Присідання Франкенштейна",
+    "popularity": 9
+  },
+  "Freehand_Jump_Squat": {
+    "nameUk": "Присідання з вистрибуванням",
+    "popularity": 4
+  },
+  "Frog_Hops": {
+    "nameUk": "Стрибки жабкою",
+    "popularity": 8
+  },
+  "Frog_Sit-Ups": {
+    "nameUk": "Підйом тулуба «жабка»",
+    "popularity": 7
+  },
+  "Front_Barbell_Squat": {
+    "nameUk": "Фронтальні присідання зі штангою",
+    "popularity": 3
+  },
+  "Front_Barbell_Squat_To_A_Bench": {
+    "nameUk": "Фронтальні присідання на лаву зі штангою",
+    "popularity": 8
+  },
+  "Front_Box_Jump": {
+    "nameUk": "Стрибки на тумбу",
+    "popularity": 3
+  },
+  "Front_Cable_Raise": {
+    "nameUk": "Підйом рук перед собою на блоці",
+    "popularity": 5
+  },
+  "Front_Cone_Hops_or_hurdle_hops": {
+    "nameUk": "Стрибки вперед через конуси або бар'єри",
+    "popularity": 8
+  },
+  "Front_Dumbbell_Raise": {
+    "nameUk": "Почерговий підйом гантелей перед собою",
+    "popularity": 3
+  },
+  "Front_Incline_Dumbbell_Raise": {
+    "nameUk": "Підйом гантелей перед собою на похилій лаві",
+    "popularity": 8
+  },
+  "Front_Leg_Raises": {
+    "nameUk": "Махи ногою вперед",
+    "popularity": 8
+  },
+  "Front_Plate_Raise": {
+    "nameUk": "Підйом диска перед собою",
+    "popularity": 5
+  },
+  "Front_Raise_And_Pullover": {
+    "nameUk": "Підйом штанги перед собою та пуловер",
+    "popularity": 9
+  },
+  "Front_Squat_Clean_Grip": {
+    "nameUk": "Фронтальні присідання зі штангою (тяжкоатлетичний хват)",
+    "popularity": 4
+  },
+  "Front_Squats_With_Two_Kettlebells": {
+    "nameUk": "Фронтальні присідання з двома гирями",
+    "popularity": 7
+  },
+  "Front_Two-Dumbbell_Raise": {
+    "nameUk": "Підйом двох гантелей перед собою",
+    "popularity": 4
+  },
+  "Full_Range-Of-Motion_Lat_Pulldown": {
+    "nameUk": "Тяга верхнього блоку з повною амплітудою",
+    "popularity": 5
+  },
+  "Gironda_Sternum_Chins": {
+    "nameUk": "Підтягування Жиронди до грудини",
+    "popularity": 8
+  },
+  "Glute_Ham_Raise": {
+    "nameUk": "Згинання ніг на GHD-тренажері",
+    "popularity": 6
+  },
+  "Glute_Kickback": {
+    "nameUk": "Відведення ноги назад на четвереньках",
+    "popularity": 4
+  },
+  "Goblet_Squat": {
+    "nameUk": "Кубкові присідання з гирею",
+    "popularity": 3
+  },
+  "Good_Morning": {
+    "nameUk": "Нахили «гуд монінг» зі штангою",
+    "popularity": 5
+  },
+  "Good_Morning_off_Pins": {
+    "nameUk": "Нахили «гуд монінг» зі штангою з упорів",
+    "popularity": 9
+  },
+  "Gorilla_Chin_Crunch": {
+    "nameUk": "Підтягування «горила» з підйомом колін",
+    "popularity": 9
+  },
+  "Groin_and_Back_Stretch": {
+    "nameUk": "Розтяжка паху та спини",
+    "popularity": 8
+  },
+  "Groiners": {
+    "nameUk": "Випад з упору лежачи (гройнер)",
+    "popularity": 8
+  },
+  "Hack_Squat": {
+    "nameUk": "Гак-присідання в тренажері",
+    "popularity": 3
+  },
+  "Hammer_Curls": {
+    "nameUk": "Молоткові згинання з гантелями",
+    "popularity": 2
+  },
+  "Hammer_Grip_Incline_DB_Bench_Press": {
+    "nameUk": "Жим гантелей на похилій лаві молотковим хватом",
+    "popularity": 5
+  },
+  "Hamstring-SMR": {
+    "nameUk": "Самомасаж біцепса стегна роликом",
+    "popularity": 8
+  },
+  "Hamstring_Stretch": {
+    "nameUk": "Розтяжка задньої поверхні стегна",
+    "popularity": 4
+  },
+  "Handstand_Push-Ups": {
+    "nameUk": "Віджимання в стійці на руках",
+    "popularity": 6
+  },
+  "Hang_Clean": {
+    "nameUk": "Взяття штанги на груди з вису",
+    "popularity": 6
+  },
+  "Hang_Clean_-_Below_the_Knees": {
+    "nameUk": "Взяття штанги на груди з вису нижче колін",
+    "popularity": 9
+  },
+  "Hang_Snatch": {
+    "nameUk": "Ривок штанги з вису",
+    "popularity": 8
+  },
+  "Hang_Snatch_-_Below_Knees": {
+    "nameUk": "Ривок штанги з вису нижче колін",
+    "popularity": 9
+  },
+  "Hanging_Bar_Good_Morning": {
+    "nameUk": "Нахили «гуд монінг» зі штангою на ланцюгах",
+    "popularity": 10
+  },
+  "Hanging_Leg_Raise": {
+    "nameUk": "Підйом ніг у висі",
+    "popularity": 3
+  },
+  "Hanging_Pike": {
+    "nameUk": "Підйом прямих ніг до перекладини у висі",
+    "popularity": 7
+  },
+  "Heaving_Snatch_Balance": {
+    "nameUk": "Ривковий баланс з підштовхуванням",
+    "popularity": 10
+  },
+  "Heavy_Bag_Thrust": {
+    "nameUk": "Поштовх важкого боксерського мішка",
+    "popularity": 9
+  },
+  "High_Cable_Curls": {
+    "nameUk": "Згинання рук на верхніх блоках",
+    "popularity": 5
+  },
+  "Hip_Circles_prone": {
+    "nameUk": "Кругові рухи стегном на четвереньках",
+    "popularity": 8
+  },
+  "Hip_Extension_with_Bands": {
+    "nameUk": "Розгинання стегна з еспандером",
+    "popularity": 7
+  },
+  "Hip_Flexion_with_Band": {
+    "nameUk": "Згинання стегна з еспандером",
+    "popularity": 8
+  },
+  "Hip_Lift_with_Band": {
+    "nameUk": "Підйом таза з еспандером",
+    "popularity": 7
+  },
+  "Hug_A_Ball": {
+    "nameUk": "Обійми фітбола",
+    "popularity": 9
+  },
+  "Hug_Knees_To_Chest": {
+    "nameUk": "Притягування колін до грудей",
+    "popularity": 7
+  },
+  "Hurdle_Hops": {
+    "nameUk": "Стрибки через бар'єри",
+    "popularity": 7
+  },
+  "Hyperextensions_Back_Extensions": {
+    "nameUk": "Гіперекстензія",
+    "popularity": 3
+  },
+  "Hyperextensions_With_No_Hyperextension_Bench": {
+    "nameUk": "Гіперекстензія без тренажера",
+    "popularity": 7
+  },
+  "IT_Band_and_Glute_Stretch": {
+    "nameUk": "Розтяжка клубово-гомілкового тракту та сідниць",
+    "popularity": 8
+  },
+  "Iliotibial_Tract-SMR": {
+    "nameUk": "Самомасаж клубово-гомілкового тракту роликом",
+    "popularity": 8
+  },
+  "Inchworm": {
+    "nameUk": "Вправа «гусінь»",
+    "popularity": 6
+  },
+  "Incline_Barbell_Triceps_Extension": {
+    "nameUk": "Французький жим зі штангою на похилій лаві",
+    "popularity": 7
+  },
+  "Incline_Bench_Pull": {
+    "nameUk": "Тяга штанги лежачи грудьми на похилій лаві",
+    "popularity": 7
+  },
+  "Incline_Cable_Chest_Press": {
+    "nameUk": "Жим на блоці на похилій лаві",
+    "popularity": 6
+  },
+  "Incline_Cable_Flye": {
+    "nameUk": "Розведення рук на блоках на похилій лаві",
+    "popularity": 4
+  },
+  "Incline_Dumbbell_Bench_With_Palms_Facing_In": {
+    "nameUk": "Жим гантелей на похилій лаві долонями всередину",
+    "popularity": 5
+  },
+  "Incline_Dumbbell_Curl": {
+    "nameUk": "Згинання рук з гантелями на похилій лаві",
+    "popularity": 3
+  },
+  "Incline_Dumbbell_Flyes": {
+    "nameUk": "Розведення гантелей на похилій лаві",
+    "popularity": 3
+  },
+  "Incline_Dumbbell_Flyes_-_With_A_Twist": {
+    "nameUk": "Розведення гантелей з поворотом на похилій лаві",
+    "popularity": 7
+  },
+  "Incline_Dumbbell_Press": {
+    "nameUk": "Жим гантелей на похилій лаві",
+    "popularity": 2
+  },
+  "Incline_Hammer_Curls": {
+    "nameUk": "Молоткові згинання на похилій лаві",
+    "popularity": 5
+  },
+  "Incline_Inner_Biceps_Curl": {
+    "nameUk": "Згинання рук з гантелями на похилій лаві з розворотом назовні",
+    "popularity": 7
+  },
+  "Incline_Push-Up": {
+    "nameUk": "Віджимання від похилої поверхні",
+    "popularity": 4
+  },
+  "Incline_Push-Up_Close-Grip": {
+    "nameUk": "Віджимання вузьким хватом від похилої поверхні",
+    "popularity": 6
+  },
+  "Incline_Push-Up_Depth_Jump": {
+    "nameUk": "Пліометричні віджимання від похилої поверхні",
+    "popularity": 9
+  },
+  "Incline_Push-Up_Medium": {
+    "nameUk": "Віджимання від похилої поверхні середнім хватом",
+    "popularity": 6
+  },
+  "Incline_Push-Up_Reverse_Grip": {
+    "nameUk": "Віджимання зворотним хватом від похилої поверхні",
+    "popularity": 8
+  },
+  "Incline_Push-Up_Wide": {
+    "nameUk": "Віджимання широким хватом від похилої поверхні",
+    "popularity": 6
+  },
+  "Intermediate_Groin_Stretch": {
+    "nameUk": "Розтяжка паху (середній рівень)",
+    "popularity": 8
+  },
+  "Intermediate_Hip_Flexor_and_Quad_Stretch": {
+    "nameUk": "Розтяжка згиначів стегна та квадрицепса",
+    "popularity": 7
+  },
+  "Internal_Rotation_with_Band": {
+    "nameUk": "Внутрішня ротація плеча з еспандером",
+    "popularity": 7
+  },
+  "Inverted_Row": {
+    "nameUk": "Австралійські підтягування",
+    "popularity": 4
+  },
+  "Inverted_Row_with_Straps": {
+    "nameUk": "Австралійські підтягування на петлях",
+    "popularity": 6
+  },
+  "Iron_Cross": {
+    "nameUk": "Залізний хрест з гантелями",
+    "popularity": 8
+  },
+  "Iron_Crosses_stretch": {
+    "nameUk": "Розтяжка «залізний хрест»",
+    "popularity": 9
+  },
+  "Isometric_Chest_Squeezes": {
+    "nameUk": "Ізометричне стискання долонь для грудей",
+    "popularity": 8
+  },
+  "Isometric_Neck_Exercise_-_Front_And_Back": {
+    "nameUk": "Ізометрична вправа для шиї (вперед і назад)",
+    "popularity": 8
+  },
+  "Isometric_Neck_Exercise_-_Sides": {
+    "nameUk": "Ізометрична вправа для шиї (вбік)",
+    "popularity": 8
+  },
+  "Isometric_Wipers": {
+    "nameUk": "Ізометричні «двірники»",
+    "popularity": 8
+  },
+  "JM_Press": {
+    "nameUk": "Жим JM",
+    "popularity": 7
+  },
+  "Jackknife_Sit-Up": {
+    "nameUk": "Складка (книжечка)",
+    "popularity": 5
+  },
+  "Janda_Sit-Up": {
+    "nameUk": "Підйом тулуба за Яндою",
+    "popularity": 9
+  },
+  "Jefferson_Squats": {
+    "nameUk": "Присідання Джефферсона",
+    "popularity": 9
+  },
+  "Jerk_Balance": {
+    "nameUk": "Поштовховий баланс",
+    "popularity": 9
+  },
+  "Jerk_Dip_Squat": {
+    "nameUk": "Підсід у поштовху",
+    "popularity": 9
+  },
+  "Jogging_Treadmill": {
+    "nameUk": "Легкий біг на біговій доріжці",
+    "popularity": 2
+  },
+  "Keg_Load": {
+    "nameUk": "Закидання бочки (кега)",
+    "popularity": 10
+  },
+  "Kettlebell_Arnold_Press": {
+    "nameUk": "Жим Арнольда з гирями",
+    "popularity": 8
+  },
+  "Kettlebell_Dead_Clean": {
+    "nameUk": "Взяття гирі на груди з підлоги",
+    "popularity": 7
+  },
+  "Kettlebell_Figure_8": {
+    "nameUk": "Вісімка з гирею",
+    "popularity": 8
+  },
+  "Kettlebell_Halo": {
+    "nameUk": "Гало з гирею (кола навколо голови)",
+    "popularity": 7
+  },
+  "Kettlebell_Halo_With_Overhead_Extension": {
+    "nameUk": "Гало з гирею з розгинанням рук над головою",
+    "popularity": 9
+  },
+  "Kettlebell_Hang_Clean": {
+    "nameUk": "Взяття гирі на груди з вису",
+    "popularity": 7
+  },
+  "Kettlebell_One-Legged_Deadlift": {
+    "nameUk": "Станова тяга з гирею на одній нозі",
+    "popularity": 6
+  },
+  "Kettlebell_Overhead_Triceps_Extension": {
+    "nameUk": "Розгинання рук з гирею з-за голови",
+    "popularity": 6
+  },
+  "Kettlebell_Pass_Between_The_Legs": {
+    "nameUk": "Передача гирі між ногами",
+    "popularity": 9
+  },
+  "Kettlebell_Pirate_Ships": {
+    "nameUk": "«Піратські кораблі» з гирею",
+    "popularity": 9
+  },
+  "Kettlebell_Pistol_Squat": {
+    "nameUk": "Присідання «пістолет» з гирею",
+    "popularity": 8
+  },
+  "Kettlebell_Seated_Press": {
+    "nameUk": "Жим гирі сидячи",
+    "popularity": 7
+  },
+  "Kettlebell_Seesaw_Press": {
+    "nameUk": "Жим гир «гойдалка»",
+    "popularity": 8
+  },
+  "Kettlebell_Sumo_High_Pull": {
+    "nameUk": "Тяга гирі до підборіддя в стійці сумо",
+    "popularity": 6
+  },
+  "Kettlebell_Thruster": {
+    "nameUk": "Трастер з гирями",
+    "popularity": 6
+  },
+  "Kettlebell_Turkish_Get-Up_Lunge_style": {
+    "nameUk": "Турецький підйом з гирею (через випад)",
+    "popularity": 6
+  },
+  "Kettlebell_Turkish_Get-Up_Squat_style": {
+    "nameUk": "Турецький підйом з гирею (через присід)",
+    "popularity": 7
+  },
+  "Kettlebell_Windmill": {
+    "nameUk": "Млин з гирею",
+    "popularity": 7
+  },
+  "Kipping_Muscle_Up": {
+    "nameUk": "Вихід силою з кіпінгом",
+    "popularity": 7
+  },
+  "Knee_Across_The_Body": {
+    "nameUk": "Скручувальна розтяжка лежачи (коліно через тіло)",
+    "popularity": 8
+  },
+  "Knee_Circles": {
+    "nameUk": "Кругові рухи колінами",
+    "popularity": 8
+  },
+  "Knee_Hip_Raise_On_Parallel_Bars": {
+    "nameUk": "Підйом колін в упорі на брусах",
+    "popularity": 4
+  },
+  "Knee_Tuck_Jump": {
+    "nameUk": "Стрибки з підтягуванням колін до грудей",
+    "popularity": 5
+  },
+  "Kneeling_Arm_Drill": {
+    "nameUk": "Бігова робота рук стоячи на колінах",
+    "popularity": 9
+  },
+  "Kneeling_Cable_Crunch_With_Alternating_Oblique_Twists": {
+    "nameUk": "Скручування на блоці на колінах з поворотами корпусу",
+    "popularity": 6
+  },
+  "Kneeling_Cable_Triceps_Extension": {
+    "nameUk": "Розгинання рук на трицепс на блоці з колін",
+    "popularity": 7
+  },
+  "Kneeling_Forearm_Stretch": {
+    "nameUk": "Розтяжка передпліч на колінах",
+    "popularity": 8
+  },
+  "Kneeling_High_Pulley_Row": {
+    "nameUk": "Тяга верхнього блоку стоячи на колінах",
+    "popularity": 6
+  },
+  "Kneeling_Hip_Flexor": {
+    "nameUk": "Розтяжка згиначів стегна на коліні",
+    "popularity": 6
+  },
+  "Kneeling_Jump_Squat": {
+    "nameUk": "Вистрибування з колін зі штангою",
+    "popularity": 9
+  },
+  "Kneeling_Single-Arm_High_Pulley_Row": {
+    "nameUk": "Тяга верхнього блоку однією рукою стоячи на колінах",
+    "popularity": 6
+  },
+  "Kneeling_Squat": {
+    "nameUk": "Присідання зі штангою на колінах",
+    "popularity": 9
+  },
+  "Landmine_180s": {
+    "nameUk": "Повороти з кінцем штанги на 180° (лендмайн)",
+    "popularity": 7
+  },
+  "Landmine_Linear_Jammer": {
+    "nameUk": "Лінійний джемер з кінцем штанги (лендмайн)",
+    "popularity": 8
+  },
+  "Lateral_Bound": {
+    "nameUk": "Бічні стрибки з ноги на ногу",
+    "popularity": 7
+  },
+  "Lateral_Box_Jump": {
+    "nameUk": "Бічні стрибки на тумбу",
+    "popularity": 8
+  },
+  "Lateral_Cone_Hops": {
+    "nameUk": "Бічні стрибки через конуси",
+    "popularity": 8
+  },
+  "Lateral_Raise_-_With_Bands": {
+    "nameUk": "Махи в сторони з еспандером",
+    "popularity": 5
+  },
+  "Latissimus_Dorsi-SMR": {
+    "nameUk": "Самомасаж найширших м'язів роликом",
+    "popularity": 8
+  },
+  "Leg-Over_Floor_Press": {
+    "nameUk": "Жим гирі лежачи на підлозі із закинутою ногою",
+    "popularity": 9
+  },
+  "Leg-Up_Hamstring_Stretch": {
+    "nameUk": "Розтяжка задньої поверхні стегна з піднятою ногою",
+    "popularity": 6
+  },
+  "Leg_Extensions": {
+    "nameUk": "Розгинання ніг у тренажері",
+    "popularity": 2
+  },
+  "Leg_Lift": {
+    "nameUk": "Відведення ноги назад стоячи",
+    "popularity": 5
+  },
+  "Leg_Press": {
+    "nameUk": "Жим ногами в тренажері",
+    "popularity": 2
+  },
+  "Leg_Pull-In": {
+    "nameUk": "Підтягування колін до грудей лежачи",
+    "popularity": 6
+  },
+  "Leverage_Chest_Press": {
+    "nameUk": "Жим на груди в тренажері",
+    "popularity": 2
+  },
+  "Leverage_Deadlift": {
+    "nameUk": "Станова тяга у важільному тренажері",
+    "popularity": 7
+  },
+  "Leverage_Decline_Chest_Press": {
+    "nameUk": "Жим на похилій лаві головою вниз у тренажері",
+    "popularity": 5
+  },
+  "Leverage_High_Row": {
+    "nameUk": "Висока тяга в тренажері",
+    "popularity": 4
+  },
+  "Leverage_Incline_Chest_Press": {
+    "nameUk": "Жим на похилій лаві в тренажері",
+    "popularity": 3
+  },
+  "Leverage_Iso_Row": {
+    "nameUk": "Горизонтальна тяга сидячи в тренажері",
+    "popularity": 3
+  },
+  "Leverage_Shoulder_Press": {
+    "nameUk": "Жим на плечі в тренажері",
+    "popularity": 2
+  },
+  "Leverage_Shrug": {
+    "nameUk": "Шраги в тренажері",
+    "popularity": 5
+  },
+  "Linear_3-Part_Start_Technique": {
+    "nameUk": "Трифазна техніка стартового розгону",
+    "popularity": 9
+  },
+  "Linear_Acceleration_Wall_Drill": {
+    "nameUk": "Вправа на розгін з упором у стіну",
+    "popularity": 9
+  },
+  "Linear_Depth_Jump": {
+    "nameUk": "Стрибок у глибину",
+    "popularity": 7
+  },
+  "Log_Lift": {
+    "nameUk": "Підйом колоди",
+    "popularity": 9
+  },
+  "London_Bridges": {
+    "nameUk": "«Лондонські мости» на канаті",
+    "popularity": 10
+  },
+  "Looking_At_Ceiling": {
+    "nameUk": "Розтяжка «погляд у стелю»",
+    "popularity": 9
+  },
+  "Low_Cable_Crossover": {
+    "nameUk": "Зведення рук з нижніх блоків у кросовері",
+    "popularity": 4
+  },
+  "Low_Cable_Triceps_Extension": {
+    "nameUk": "Розгинання рук на трицепс з-за голови з нижнього блоку",
+    "popularity": 7
+  },
+  "Low_Pulley_Row_To_Neck": {
+    "nameUk": "Тяга нижнього блоку до шиї сидячи",
+    "popularity": 7
+  },
+  "Lower_Back-SMR": {
+    "nameUk": "Самомасаж попереку роликом",
+    "popularity": 8
+  },
+  "Lower_Back_Curl": {
+    "nameUk": "Розгинання спини лежачи на животі",
+    "popularity": 7
+  },
+  "Lunge_Pass_Through": {
+    "nameUk": "Випади з передачею гирі під ногою",
+    "popularity": 8
+  },
+  "Lunge_Sprint": {
+    "nameUk": "Спринтерські випади в тренажері Сміта",
+    "popularity": 8
+  },
+  "Lying_Bent_Leg_Groin": {
+    "nameUk": "Розтяжка паху лежачи із зігнутою ногою",
+    "popularity": 9
+  },
+  "Lying_Cable_Curl": {
+    "nameUk": "Згинання рук лежачи на блоці",
+    "popularity": 6
+  },
+  "Lying_Cambered_Barbell_Row": {
+    "nameUk": "Тяга вигнутого грифа лежачи на лаві",
+    "popularity": 7
+  },
+  "Lying_Close-Grip_Bar_Curl_On_High_Pulley": {
+    "nameUk": "Згинання рук вузьким хватом лежачи з верхнього блоку",
+    "popularity": 8
+  },
+  "Lying_Close-Grip_Barbell_Triceps_Extension_Behind_The_Head": {
+    "nameUk": "Французький жим лежачи зі штангою за голову вузьким хватом",
+    "popularity": 4
+  },
+  "Lying_Close-Grip_Barbell_Triceps_Press_To_Chin": {
+    "nameUk": "Французький жим лежачи з EZ-грифом до підборіддя",
+    "popularity": 5
+  },
+  "Lying_Crossover": {
+    "nameUk": "Розтяжка лежачи «нога навхрест» з партнером",
+    "popularity": 9
+  },
+  "Lying_Dumbbell_Tricep_Extension": {
+    "nameUk": "Французький жим з гантелями лежачи",
+    "popularity": 4
+  },
+  "Lying_Face_Down_Plate_Neck_Resistance": {
+    "nameUk": "Розгинання шиї з диском лежачи обличчям вниз",
+    "popularity": 8
+  },
+  "Lying_Face_Up_Plate_Neck_Resistance": {
+    "nameUk": "Згинання шиї з диском лежачи на спині",
+    "popularity": 8
+  },
+  "Lying_Glute": {
+    "nameUk": "Розтяжка сідниць лежачи",
+    "popularity": 8
+  },
+  "Lying_Hamstring": {
+    "nameUk": "Розтяжка задньої поверхні стегна лежачи",
+    "popularity": 7
+  },
+  "Lying_High_Bench_Barbell_Curl": {
+    "nameUk": "Згинання рук зі штангою лежачи животом на високій лаві",
+    "popularity": 8
+  },
+  "Lying_Leg_Curls": {
+    "nameUk": "Згинання ніг лежачи в тренажері",
+    "popularity": 2
+  },
+  "Lying_Machine_Squat": {
+    "nameUk": "Присідання лежачи в тренажері",
+    "popularity": 7
+  },
+  "Lying_One-Arm_Lateral_Raise": {
+    "nameUk": "Махи однією рукою в сторону лежачи на боці",
+    "popularity": 7
+  },
+  "Lying_Prone_Quadriceps": {
+    "nameUk": "Розтяжка квадрицепса лежачи на животі",
+    "popularity": 8
+  },
+  "Lying_Rear_Delt_Raise": {
+    "nameUk": "Махи гантелей на задні дельти лежачи",
+    "popularity": 7
+  },
+  "Lying_Supine_Dumbbell_Curl": {
+    "nameUk": "Згинання рук з гантелями лежачи на спині",
+    "popularity": 8
+  },
+  "Lying_T-Bar_Row": {
+    "nameUk": "Т-тяга лежачи в тренажері",
+    "popularity": 4
+  },
+  "Lying_Triceps_Press": {
+    "nameUk": "Французький жим лежачи",
+    "popularity": 3
+  },
+  "Machine_Bench_Press": {
+    "nameUk": "Жим лежачи в тренажері",
+    "popularity": 3
+  },
+  "Machine_Bicep_Curl": {
+    "nameUk": "Згинання рук на біцепс у тренажері",
+    "popularity": 4
+  },
+  "Machine_Preacher_Curls": {
+    "nameUk": "Згинання рук на лаві Скотта в тренажері",
+    "popularity": 3
+  },
+  "Machine_Shoulder_Military_Press": {
+    "nameUk": "Армійський жим на плечі в тренажері",
+    "popularity": 3
+  },
+  "Machine_Triceps_Extension": {
+    "nameUk": "Розгинання рук на трицепс у тренажері",
+    "popularity": 4
+  },
+  "Medicine_Ball_Chest_Pass": {
+    "nameUk": "Пас медболом від грудей",
+    "popularity": 7
+  },
+  "Medicine_Ball_Full_Twist": {
+    "nameUk": "Повний поворот корпусу з медболом",
+    "popularity": 7
+  },
+  "Medicine_Ball_Scoop_Throw": {
+    "nameUk": "Кидок медболу знизу вгору",
+    "popularity": 8
+  },
+  "Middle_Back_Shrug": {
+    "nameUk": "Зведення лопаток з гантелями лежачи на похилій лаві",
+    "popularity": 7
+  },
+  "Middle_Back_Stretch": {
+    "nameUk": "Розтяжка середини спини",
+    "popularity": 7
+  },
+  "Mixed_Grip_Chin": {
+    "nameUk": "Підтягування різнохватом",
+    "popularity": 7
+  },
+  "Monster_Walk": {
+    "nameUk": "Хода монстра з еспандером",
+    "popularity": 6
+  },
+  "Mountain_Climbers": {
+    "nameUk": "Скелелаз",
+    "popularity": 3
+  },
+  "Moving_Claw_Series": {
+    "nameUk": "Бігова вправа «кіготь» у русі",
+    "popularity": 10
+  },
+  "Muscle_Snatch": {
+    "nameUk": "М'язовий ривок",
+    "popularity": 9
+  },
+  "Muscle_Up": {
+    "nameUk": "Вихід силою",
+    "popularity": 6
+  },
+  "Narrow_Stance_Hack_Squats": {
+    "nameUk": "Гак-присідання з вузькою постановкою ніг",
+    "popularity": 6
+  },
+  "Narrow_Stance_Leg_Press": {
+    "nameUk": "Жим ногами з вузькою постановкою ніг",
+    "popularity": 5
+  },
+  "Narrow_Stance_Squats": {
+    "nameUk": "Присідання зі штангою з вузькою постановкою ніг",
+    "popularity": 5
+  },
+  "Natural_Glute_Ham_Raise": {
+    "nameUk": "Нордичні згинання ніг у тренажері",
+    "popularity": 7
+  },
+  "Neck-SMR": {
+    "nameUk": "Самомасаж шиї",
+    "popularity": 10
+  },
+  "Neck_Press": {
+    "nameUk": "Жим штанги лежачи до шиї",
+    "popularity": 9
+  },
+  "Oblique_Crunches": {
+    "nameUk": "Косі скручування",
+    "popularity": 5
+  },
+  "Oblique_Crunches_-_On_The_Floor": {
+    "nameUk": "Косі скручування на підлозі",
+    "popularity": 5
+  },
+  "Olympic_Squat": {
+    "nameUk": "Присідання зі штангою в тяжкоатлетичному стилі",
+    "popularity": 6
+  },
+  "On-Your-Back_Quad_Stretch": {
+    "nameUk": "Розтяжка квадрицепса лежачи на спині",
+    "popularity": 8
+  },
+  "On_Your_Side_Quad_Stretch": {
+    "nameUk": "Розтяжка квадрицепса лежачи на боці",
+    "popularity": 7
+  },
+  "One-Arm_Dumbbell_Row": {
+    "nameUk": "Тяга гантелі однією рукою в нахилі",
+    "popularity": 2
+  },
+  "One-Arm_Flat_Bench_Dumbbell_Flye": {
+    "nameUk": "Розведення однією рукою з гантеллю лежачи на лаві",
+    "popularity": 8
+  },
+  "One-Arm_High-Pulley_Cable_Side_Bends": {
+    "nameUk": "Нахили вбік однією рукою з верхнього блоку",
+    "popularity": 8
+  },
+  "One-Arm_Incline_Lateral_Raise": {
+    "nameUk": "Махи однією рукою в сторону на похилій лаві",
+    "popularity": 6
+  },
+  "One-Arm_Kettlebell_Clean": {
+    "nameUk": "Взяття гирі на груди однією рукою",
+    "popularity": 6
+  },
+  "One-Arm_Kettlebell_Clean_and_Jerk": {
+    "nameUk": "Взяття на груди та поштовх гирі однією рукою",
+    "popularity": 7
+  },
+  "One-Arm_Kettlebell_Floor_Press": {
+    "nameUk": "Жим гирі однією рукою лежачи на підлозі",
+    "popularity": 7
+  },
+  "One-Arm_Kettlebell_Jerk": {
+    "nameUk": "Поштовх гирі однією рукою",
+    "popularity": 7
+  },
+  "One-Arm_Kettlebell_Military_Press_To_The_Side": {
+    "nameUk": "Армійський жим гирі однією рукою з нахилом убік",
+    "popularity": 8
+  },
+  "One-Arm_Kettlebell_Para_Press": {
+    "nameUk": "Пара-жим гирі однією рукою",
+    "popularity": 9
+  },
+  "One-Arm_Kettlebell_Push_Press": {
+    "nameUk": "Швунговий жим гирі однією рукою",
+    "popularity": 7
+  },
+  "One-Arm_Kettlebell_Row": {
+    "nameUk": "Тяга гирі однією рукою в нахилі",
+    "popularity": 5
+  },
+  "One-Arm_Kettlebell_Snatch": {
+    "nameUk": "Ривок гирі однією рукою",
+    "popularity": 6
+  },
+  "One-Arm_Kettlebell_Split_Jerk": {
+    "nameUk": "Поштовх гирі однією рукою в ножиці",
+    "popularity": 8
+  },
+  "One-Arm_Kettlebell_Split_Snatch": {
+    "nameUk": "Ривок гирі однією рукою в ножиці",
+    "popularity": 9
+  },
+  "One-Arm_Kettlebell_Swings": {
+    "nameUk": "Махи гирею однією рукою",
+    "popularity": 5
+  },
+  "One-Arm_Long_Bar_Row": {
+    "nameUk": "Тяга кінця штанги однією рукою стоячи збоку",
+    "popularity": 6
+  },
+  "One-Arm_Medicine_Ball_Slam": {
+    "nameUk": "Кидок медболу об підлогу однією рукою",
+    "popularity": 7
+  },
+  "One-Arm_Open_Palm_Kettlebell_Clean": {
+    "nameUk": "Взяття гирі на груди однією рукою відкритою долонею",
+    "popularity": 9
+  },
+  "One-Arm_Overhead_Kettlebell_Squats": {
+    "nameUk": "Присідання з гирею над головою в одній руці",
+    "popularity": 8
+  },
+  "One-Arm_Side_Deadlift": {
+    "nameUk": "Бічна станова тяга штанги однією рукою",
+    "popularity": 9
+  },
+  "One-Arm_Side_Laterals": {
+    "nameUk": "Махи гантеллю в сторону однією рукою",
+    "popularity": 4
+  },
+  "One-Legged_Cable_Kickback": {
+    "nameUk": "Відведення ноги назад на нижньому блоці",
+    "popularity": 3
+  },
+  "One_Arm_Against_Wall": {
+    "nameUk": "Розтяжка грудей і плеча однією рукою біля стіни",
+    "popularity": 9
+  },
+  "One_Arm_Chin-Up": {
+    "nameUk": "Підтягування на одній руці",
+    "popularity": 9
+  },
+  "One_Arm_Dumbbell_Bench_Press": {
+    "nameUk": "Жим гантелі однією рукою лежачи",
+    "popularity": 6
+  },
+  "One_Arm_Dumbbell_Preacher_Curl": {
+    "nameUk": "Згинання руки з гантеллю на лаві Скотта",
+    "popularity": 4
+  },
+  "One_Arm_Floor_Press": {
+    "nameUk": "Жим штанги однією рукою лежачи на підлозі",
+    "popularity": 8
+  },
+  "One_Arm_Lat_Pulldown": {
+    "nameUk": "Тяга верхнього блоку однією рукою",
+    "popularity": 5
+  },
+  "One_Arm_Pronated_Dumbbell_Triceps_Extension": {
+    "nameUk": "Розгинання руки з гантеллю на трицепс лежачи пронованим хватом",
+    "popularity": 8
+  },
+  "One_Arm_Supinated_Dumbbell_Triceps_Extension": {
+    "nameUk": "Розгинання руки з гантеллю на трицепс лежачи супінованим хватом",
+    "popularity": 8
+  },
+  "One_Half_Locust": {
+    "nameUk": "Поза напівсарани",
+    "popularity": 9
+  },
+  "One_Handed_Hang": {
+    "nameUk": "Вис на одній руці",
+    "popularity": 8
+  },
+  "One_Knee_To_Chest": {
+    "nameUk": "Притягування коліна до грудей",
+    "popularity": 7
+  },
+  "One_Leg_Barbell_Squat": {
+    "nameUk": "Присідання на одній нозі зі штангою (нога на лаві)",
+    "popularity": 6
+  },
+  "Open_Palm_Kettlebell_Clean": {
+    "nameUk": "Взяття гирі на груди відкритою долонею",
+    "popularity": 9
+  },
+  "Otis-Up": {
+    "nameUk": "Підйом Отіса",
+    "popularity": 9
+  },
+  "Overhead_Cable_Curl": {
+    "nameUk": "Згинання рук з-за голови на блоці",
+    "popularity": 6
+  },
+  "Overhead_Lat": {
+    "nameUk": "Розтяжка найширших з руками над головою",
+    "popularity": 8
+  },
+  "Overhead_Slam": {
+    "nameUk": "Кидок медболу об підлогу з-за голови",
+    "popularity": 4
+  },
+  "Overhead_Squat": {
+    "nameUk": "Присідання зі штангою над головою",
+    "popularity": 6
+  },
+  "Overhead_Stretch": {
+    "nameUk": "Розтяжка з руками над головою",
+    "popularity": 8
+  },
+  "Overhead_Triceps": {
+    "nameUk": "Розтяжка трицепса з-за голови",
+    "popularity": 6
+  },
+  "Pallof_Press": {
+    "nameUk": "Жим Паллофа на блоці",
+    "popularity": 6
+  },
+  "Pallof_Press_With_Rotation": {
+    "nameUk": "Жим Паллофа на блоці з поворотом",
+    "popularity": 7
+  },
+  "Palms-Down_Dumbbell_Wrist_Curl_Over_A_Bench": {
+    "nameUk": "Розгинання зап'ясть з гантелями на лаві (долонями вниз)",
+    "popularity": 7
+  },
+  "Palms-Down_Wrist_Curl_Over_A_Bench": {
+    "nameUk": "Розгинання зап'ясть зі штангою на лаві (долонями вниз)",
+    "popularity": 6
+  },
+  "Palms-Up_Barbell_Wrist_Curl_Over_A_Bench": {
+    "nameUk": "Згинання зап'ясть зі штангою на лаві (долонями вгору)",
+    "popularity": 5
+  },
+  "Palms-Up_Dumbbell_Wrist_Curl_Over_A_Bench": {
+    "nameUk": "Згинання зап'ясть з гантелями на лаві (долонями вгору)",
+    "popularity": 6
+  },
+  "Parallel_Bar_Dip": {
+    "nameUk": "Віджимання на брусах",
+    "popularity": 3
+  },
+  "Pelvic_Tilt_Into_Bridge": {
+    "nameUk": "Нахил таза з переходом у сідничний місток",
+    "popularity": 7
+  },
+  "Peroneals-SMR": {
+    "nameUk": "Самомасаж малогомілкових м'язів роликом",
+    "popularity": 10
+  },
+  "Peroneals_Stretch": {
+    "nameUk": "Розтяжка малогомілкових м'язів",
+    "popularity": 9
+  },
+  "Physioball_Hip_Bridge": {
+    "nameUk": "Сідничний місток на фітболі",
+    "popularity": 6
+  },
+  "Pin_Presses": {
+    "nameUk": "Жим лежачи з обмежувачів",
+    "popularity": 8
+  },
+  "Piriformis-SMR": {
+    "nameUk": "Самомасаж грушоподібного м'яза роликом",
+    "popularity": 8
+  },
+  "Plank": {
+    "nameUk": "Планка",
+    "popularity": 2
+  },
+  "Plate_Pinch": {
+    "nameUk": "Утримання дисків щипковим хватом",
+    "popularity": 8
+  },
+  "Plate_Twist": {
+    "nameUk": "Повороти корпусу з диском",
+    "popularity": 6
+  },
+  "Platform_Hamstring_Slides": {
+    "nameUk": "Ковзні згинання ніг на платформі",
+    "popularity": 9
+  },
+  "Plie_Dumbbell_Squat": {
+    "nameUk": "Присідання сумо (плі) з гантеллю",
+    "popularity": 4
+  },
+  "Plyo_Kettlebell_Pushups": {
+    "nameUk": "Пліометричні віджимання на гирях",
+    "popularity": 9
+  },
+  "Plyo_Push-up": {
+    "nameUk": "Пліометричні віджимання",
+    "popularity": 6
+  },
+  "Posterior_Tibialis_Stretch": {
+    "nameUk": "Розтяжка заднього великогомілкового м'яза",
+    "popularity": 9
+  },
+  "Power_Clean": {
+    "nameUk": "Силове взяття штанги на груди",
+    "popularity": 4
+  },
+  "Power_Clean_from_Blocks": {
+    "nameUk": "Силове взяття штанги на груди з плінтів",
+    "popularity": 9
+  },
+  "Power_Jerk": {
+    "nameUk": "Швунг поштовховий",
+    "popularity": 8
+  },
+  "Power_Partials": {
+    "nameUk": "Часткові махи гантелями в сторони",
+    "popularity": 8
+  },
+  "Power_Snatch": {
+    "nameUk": "Силовий ривок штанги",
+    "popularity": 7
+  },
+  "Power_Snatch_from_Blocks": {
+    "nameUk": "Силовий ривок штанги з плінтів",
+    "popularity": 9
+  },
+  "Power_Stairs": {
+    "nameUk": "Підйом вантажу по сходах",
+    "popularity": 10
+  },
+  "Preacher_Curl": {
+    "nameUk": "Згинання рук зі штангою на лаві Скотта",
+    "popularity": 3
+  },
+  "Preacher_Hammer_Dumbbell_Curl": {
+    "nameUk": "Молоткові згинання з гантелями на лаві Скотта",
+    "popularity": 5
+  },
+  "Press_Sit-Up": {
+    "nameUk": "Підйом тулуба з жимом штанги",
+    "popularity": 9
+  },
+  "Prone_Manual_Hamstring": {
+    "nameUk": "Згинання ніг лежачи з опором партнера",
+    "popularity": 9
+  },
+  "Prowler_Sprint": {
+    "nameUk": "Спринт зі штовханням саней (проулер)",
+    "popularity": 6
+  },
+  "Pull_Through": {
+    "nameUk": "Протягування троса між ніг на блоці",
+    "popularity": 5
+  },
+  "Pullups": {
+    "nameUk": "Підтягування",
+    "popularity": 1
+  },
+  "Push-Up_Wide": {
+    "nameUk": "Віджимання широким хватом",
+    "popularity": 3
+  },
+  "Push-Ups_-_Close_Triceps_Position": {
+    "nameUk": "Віджимання вузьким хватом на трицепс",
+    "popularity": 3
+  },
+  "Push-Ups_With_Feet_Elevated": {
+    "nameUk": "Віджимання з ногами на лаві",
+    "popularity": 5
+  },
+  "Push-Ups_With_Feet_On_An_Exercise_Ball": {
+    "nameUk": "Віджимання з ногами на фітболі",
+    "popularity": 7
+  },
+  "Push_Press": {
+    "nameUk": "Швунговий жим штанги",
+    "popularity": 5
+  },
+  "Push_Press_-_Behind_the_Neck": {
+    "nameUk": "Швунговий жим штанги з-за голови",
+    "popularity": 8
+  },
+  "Push_Up_to_Side_Plank": {
+    "nameUk": "Віджимання з переходом у бічну планку",
+    "popularity": 6
+  },
+  "Pushups": {
+    "nameUk": "Віджимання",
+    "popularity": 1
+  },
+  "Pushups_Close_and_Wide_Hand_Positions": {
+    "nameUk": "Віджимання з вузькою та широкою постановкою рук",
+    "popularity": 5
+  },
+  "Pyramid": {
+    "nameUk": "Розтяжка «піраміда» на фітболі",
+    "popularity": 9
+  },
+  "Quad_Stretch": {
+    "nameUk": "Розтяжка квадрицепса",
+    "popularity": 5
+  },
+  "Quadriceps-SMR": {
+    "nameUk": "Самомасаж квадрицепса роликом",
+    "popularity": 8
+  },
+  "Quick_Leap": {
+    "nameUk": "Швидкі стрибки на тумбу",
+    "popularity": 8
+  },
+  "Rack_Delivery": {
+    "nameUk": "Подача штанги на груди (техніка взяття)",
+    "popularity": 10
+  },
+  "Rack_Pull_with_Bands": {
+    "nameUk": "Тяга з плінтів з еспандерами",
+    "popularity": 8
+  },
+  "Rack_Pulls": {
+    "nameUk": "Тяга з плінтів",
+    "popularity": 4
+  },
+  "Rear_Leg_Raises": {
+    "nameUk": "Махи ногою назад",
+    "popularity": 8
+  },
+  "Recumbent_Bike": {
+    "nameUk": "Горизонтальний велотренажер",
+    "popularity": 5
+  },
+  "Return_Push_from_Stance": {
+    "nameUk": "Прийом і повернення паса медболом зі стійки",
+    "popularity": 9
+  },
+  "Reverse_Band_Bench_Press": {
+    "nameUk": "Жим лежачи з полегшувальними еспандерами",
+    "popularity": 9
+  },
+  "Reverse_Band_Box_Squat": {
+    "nameUk": "Присідання на ящик з полегшувальними еспандерами",
+    "popularity": 9
+  },
+  "Reverse_Band_Deadlift": {
+    "nameUk": "Станова тяга з полегшувальними еспандерами",
+    "popularity": 9
+  },
+  "Reverse_Band_Power_Squat": {
+    "nameUk": "Силові присідання з полегшувальними еспандерами",
+    "popularity": 9
+  },
+  "Reverse_Band_Sumo_Deadlift": {
+    "nameUk": "Тяга сумо з полегшувальними еспандерами",
+    "popularity": 9
+  },
+  "Reverse_Barbell_Curl": {
+    "nameUk": "Згинання рук зі штангою зворотним хватом",
+    "popularity": 4
+  },
+  "Reverse_Barbell_Preacher_Curls": {
+    "nameUk": "Згинання рук з EZ-грифом зворотним хватом на лаві Скотта",
+    "popularity": 6
+  },
+  "Reverse_Cable_Curl": {
+    "nameUk": "Згинання рук на блоці зворотним хватом",
+    "popularity": 6
+  },
+  "Reverse_Crunch": {
+    "nameUk": "Зворотні скручування",
+    "popularity": 3
+  },
+  "Reverse_Flyes": {
+    "nameUk": "Зворотні розведення гантелей",
+    "popularity": 4
+  },
+  "Reverse_Flyes_With_External_Rotation": {
+    "nameUk": "Зворотні розведення гантелей із зовнішньою ротацією",
+    "popularity": 8
+  },
+  "Reverse_Grip_Bent-Over_Rows": {
+    "nameUk": "Тяга штанги в нахилі зворотним хватом",
+    "popularity": 4
+  },
+  "Reverse_Grip_Triceps_Pushdown": {
+    "nameUk": "Розгинання рук на блоці зворотним хватом",
+    "popularity": 4
+  },
+  "Reverse_Hyperextension": {
+    "nameUk": "Зворотна гіперекстензія",
+    "popularity": 6
+  },
+  "Reverse_Machine_Flyes": {
+    "nameUk": "Зворотні розведення в тренажері",
+    "popularity": 3
+  },
+  "Reverse_Plate_Curls": {
+    "nameUk": "Згинання рук з диском зворотним хватом",
+    "popularity": 8
+  },
+  "Reverse_Triceps_Bench_Press": {
+    "nameUk": "Жим штанги лежачи зворотним хватом",
+    "popularity": 7
+  },
+  "Rhomboids-SMR": {
+    "nameUk": "Самомасаж ромбоподібних м'язів роликом",
+    "popularity": 9
+  },
+  "Rickshaw_Carry": {
+    "nameUk": "Перенесення рикші",
+    "popularity": 10
+  },
+  "Rickshaw_Deadlift": {
+    "nameUk": "Станова тяга рикші",
+    "popularity": 10
+  },
+  "Ring_Dips": {
+    "nameUk": "Віджимання на кільцях",
+    "popularity": 6
+  },
+  "Rocket_Jump": {
+    "nameUk": "Стрибок «ракета»",
+    "popularity": 7
+  },
+  "Rocking_Standing_Calf_Raise": {
+    "nameUk": "Підйоми на носки з перекатом стоячи зі штангою",
+    "popularity": 8
+  },
+  "Rocky_Pull-Ups_Pulldowns": {
+    "nameUk": "Підтягування Роккі",
+    "popularity": 9
+  },
+  "Romanian_Deadlift": {
+    "nameUk": "Румунська тяга зі штангою",
+    "popularity": 2
+  },
+  "Romanian_Deadlift_from_Deficit": {
+    "nameUk": "Румунська тяга з дефіцитом",
+    "popularity": 7
+  },
+  "Rope_Climb": {
+    "nameUk": "Лазіння по канату",
+    "popularity": 6
+  },
+  "Rope_Crunch": {
+    "nameUk": "Скручування на блоці з канатною рукояткою",
+    "popularity": 5
+  },
+  "Rope_Jumping": {
+    "nameUk": "Стрибки на скакалці",
+    "popularity": 3
+  },
+  "Rope_Straight-Arm_Pulldown": {
+    "nameUk": "Пуловер на блоці стоячи з канатною рукояткою",
+    "popularity": 4
+  },
+  "Round_The_World_Shoulder_Stretch": {
+    "nameUk": "Розтяжка плечей «навколо світу»",
+    "popularity": 8
+  },
+  "Rowing_Stationary": {
+    "nameUk": "Гребний тренажер",
+    "popularity": 3
+  },
+  "Runners_Stretch": {
+    "nameUk": "Розтяжка бігуна",
+    "popularity": 6
+  },
+  "Running_Treadmill": {
+    "nameUk": "Біг на біговій доріжці",
+    "popularity": 2
+  },
+  "Russian_Twist": {
+    "nameUk": "Російські скручування",
+    "popularity": 3
+  },
+  "Sandbag_Load": {
+    "nameUk": "Закидання мішка з піском",
+    "popularity": 10
+  },
+  "Scapular_Pull-Up": {
+    "nameUk": "Лопаткові підтягування",
+    "popularity": 6
+  },
+  "Scissor_Kick": {
+    "nameUk": "«Ножиці» ногами лежачи",
+    "popularity": 6
+  },
+  "Scissors_Jump": {
+    "nameUk": "Стрибки «ножиці»",
+    "popularity": 7
+  },
+  "Seated_Band_Hamstring_Curl": {
+    "nameUk": "Згинання ніг сидячи з еспандером",
+    "popularity": 8
+  },
+  "Seated_Barbell_Military_Press": {
+    "nameUk": "Армійський жим штанги сидячи",
+    "popularity": 3
+  },
+  "Seated_Barbell_Twist": {
+    "nameUk": "Повороти зі штангою сидячи",
+    "popularity": 7
+  },
+  "Seated_Bent-Over_One-Arm_Dumbbell_Triceps_Extension": {
+    "nameUk": "Розгинання руки з гантеллю на трицепс сидячи в нахилі",
+    "popularity": 6
+  },
+  "Seated_Bent-Over_Rear_Delt_Raise": {
+    "nameUk": "Махи гантелями на задні дельти сидячи в нахилі",
+    "popularity": 4
+  },
+  "Seated_Bent-Over_Two-Arm_Dumbbell_Triceps_Extension": {
+    "nameUk": "Розгинання рук з гантелями на трицепс сидячи в нахилі",
+    "popularity": 7
+  },
+  "Seated_Biceps": {
+    "nameUk": "Розтяжка біцепса сидячи",
+    "popularity": 8
+  },
+  "Seated_Cable_Rows": {
+    "nameUk": "Горизонтальна тяга блоку сидячи",
+    "popularity": 2
+  },
+  "Seated_Cable_Shoulder_Press": {
+    "nameUk": "Жим на плечі на блоці сидячи",
+    "popularity": 6
+  },
+  "Seated_Calf_Raise": {
+    "nameUk": "Підйоми на носки сидячи в тренажері",
+    "popularity": 3
+  },
+  "Seated_Calf_Stretch": {
+    "nameUk": "Розтяжка литок сидячи",
+    "popularity": 7
+  },
+  "Seated_Close-Grip_Concentration_Barbell_Curl": {
+    "nameUk": "Концентроване згинання зі штангою вузьким хватом сидячи",
+    "popularity": 8
+  },
+  "Seated_Dumbbell_Curl": {
+    "nameUk": "Згинання рук з гантелями сидячи",
+    "popularity": 3
+  },
+  "Seated_Dumbbell_Inner_Biceps_Curl": {
+    "nameUk": "Згинання рук з гантелями сидячи з розворотом назовні",
+    "popularity": 6
+  },
+  "Seated_Dumbbell_Palms-Down_Wrist_Curl": {
+    "nameUk": "Розгинання зап'ясть з гантелями сидячи (долонями вниз)",
+    "popularity": 7
+  },
+  "Seated_Dumbbell_Palms-Up_Wrist_Curl": {
+    "nameUk": "Згинання зап'ясть з гантелями сидячи (долонями вгору)",
+    "popularity": 6
+  },
+  "Seated_Dumbbell_Press": {
+    "nameUk": "Жим гантелей над головою сидячи",
+    "popularity": 3
+  },
+  "Seated_Flat_Bench_Leg_Pull-In": {
+    "nameUk": "Підтягування колін до грудей сидячи на лаві",
+    "popularity": 6
+  },
+  "Seated_Floor_Hamstring_Stretch": {
+    "nameUk": "Розтяжка задньої поверхні стегна сидячи на підлозі",
+    "popularity": 6
+  },
+  "Seated_Front_Deltoid": {
+    "nameUk": "Розтяжка передньої дельти сидячи",
+    "popularity": 8
+  },
+  "Seated_Glute": {
+    "nameUk": "Розтяжка сідниць сидячи",
+    "popularity": 7
+  },
+  "Seated_Good_Mornings": {
+    "nameUk": "Нахили «гуд монінг» сидячи зі штангою",
+    "popularity": 8
+  },
+  "Seated_Hamstring": {
+    "nameUk": "Розтяжка задньої поверхні стегна сидячи",
+    "popularity": 7
+  },
+  "Seated_Hamstring_and_Calf_Stretch": {
+    "nameUk": "Розтяжка задньої поверхні стегна та литок сидячи",
+    "popularity": 7
+  },
+  "Seated_Head_Harness_Neck_Resistance": {
+    "nameUk": "Розгинання шиї з упряжжю для голови сидячи",
+    "popularity": 8
+  },
+  "Seated_Leg_Curl": {
+    "nameUk": "Згинання ніг сидячи в тренажері",
+    "popularity": 2
+  },
+  "Seated_Leg_Tucks": {
+    "nameUk": "Підтягування колін сидячи",
+    "popularity": 5
+  },
+  "Seated_One-Arm_Dumbbell_Palms-Down_Wrist_Curl": {
+    "nameUk": "Розгинання зап'ястя з гантеллю однією рукою сидячи",
+    "popularity": 8
+  },
+  "Seated_One-Arm_Dumbbell_Palms-Up_Wrist_Curl": {
+    "nameUk": "Згинання зап'ястя з гантеллю однією рукою сидячи",
+    "popularity": 7
+  },
+  "Seated_One-arm_Cable_Pulley_Rows": {
+    "nameUk": "Тяга нижнього блоку однією рукою сидячи",
+    "popularity": 4
+  },
+  "Seated_Overhead_Stretch": {
+    "nameUk": "Розтяжка з руками над головою сидячи",
+    "popularity": 8
+  },
+  "Seated_Palm-Up_Barbell_Wrist_Curl": {
+    "nameUk": "Згинання зап'ясть зі штангою сидячи (долонями вгору)",
+    "popularity": 5
+  },
+  "Seated_Palms-Down_Barbell_Wrist_Curl": {
+    "nameUk": "Розгинання зап'ясть зі штангою сидячи (долонями вниз)",
+    "popularity": 6
+  },
+  "Seated_Side_Lateral_Raise": {
+    "nameUk": "Махи гантелями в сторони сидячи",
+    "popularity": 3
+  },
+  "Seated_Triceps_Press": {
+    "nameUk": "Французький жим з гантеллю сидячи",
+    "popularity": 4
+  },
+  "Seated_Two-Arm_Palms-Up_Low-Pulley_Wrist_Curl": {
+    "nameUk": "Згинання зап'ясть з нижнього блоку сидячи",
+    "popularity": 8
+  },
+  "See-Saw_Press_Alternating_Side_Press": {
+    "nameUk": "Почерговий жим гантелей з нахилом убік («гойдалка»)",
+    "popularity": 8
+  },
+  "Shotgun_Row": {
+    "nameUk": "Тяга нижнього блоку однією рукою стоячи («шотган»)",
+    "popularity": 7
+  },
+  "Shoulder_Circles": {
+    "nameUk": "Кругові рухи плечима",
+    "popularity": 7
+  },
+  "Shoulder_Press_-_With_Bands": {
+    "nameUk": "Жим на плечі з еспандером",
+    "popularity": 6
+  },
+  "Shoulder_Raise": {
+    "nameUk": "Підйом плечей (розминка)",
+    "popularity": 8
+  },
+  "Shoulder_Stretch": {
+    "nameUk": "Розтяжка плечей",
+    "popularity": 5
+  },
+  "Side-Lying_Floor_Stretch": {
+    "nameUk": "Розтяжка лежачи на боці",
+    "popularity": 7
+  },
+  "Side_Bridge": {
+    "nameUk": "Бічна планка",
+    "popularity": 3
+  },
+  "Side_Hop-Sprint": {
+    "nameUk": "Бічні стрибки зі спринтом",
+    "popularity": 8
+  },
+  "Side_Jackknife": {
+    "nameUk": "Бічна складка",
+    "popularity": 6
+  },
+  "Side_Lateral_Raise": {
+    "nameUk": "Махи гантелями в сторони",
+    "popularity": 2
+  },
+  "Side_Laterals_to_Front_Raise": {
+    "nameUk": "Підйом гантелей через сторони перед собою",
+    "popularity": 6
+  },
+  "Side_Leg_Raises": {
+    "nameUk": "Махи ногою в сторону",
+    "popularity": 7
+  },
+  "Side_Lying_Groin_Stretch": {
+    "nameUk": "Розтяжка паху лежачи на боці",
+    "popularity": 8
+  },
+  "Side_Neck_Stretch": {
+    "nameUk": "Бічна розтяжка шиї",
+    "popularity": 6
+  },
+  "Side_Standing_Long_Jump": {
+    "nameUk": "Стрибок у довжину боком з місця",
+    "popularity": 8
+  },
+  "Side_To_Side_Chins": {
+    "nameUk": "Підтягування з боку в бік",
+    "popularity": 8
+  },
+  "Side_Wrist_Pull": {
+    "nameUk": "Бічна розтяжка зап'ястя",
+    "popularity": 9
+  },
+  "Side_to_Side_Box_Shuffle": {
+    "nameUk": "Бічні переступання через тумбу",
+    "popularity": 9
+  },
+  "Single-Arm_Cable_Crossover": {
+    "nameUk": "Зведення однією рукою в кросовері",
+    "popularity": 5
+  },
+  "Single-Arm_Linear_Jammer": {
+    "nameUk": "Лінійний джемер однією рукою (лендмайн)",
+    "popularity": 9
+  },
+  "Single-Arm_Push-Up": {
+    "nameUk": "Віджимання на одній руці",
+    "popularity": 7
+  },
+  "Single-Cone_Sprint_Drill": {
+    "nameUk": "Спринтерська вправа з одним конусом",
+    "popularity": 9
+  },
+  "Single-Leg_High_Box_Squat": {
+    "nameUk": "Присідання на одній нозі на високу тумбу",
+    "popularity": 7
+  },
+  "Single-Leg_Hop_Progression": {
+    "nameUk": "Стрибки на одній нозі (прогресія)",
+    "popularity": 9
+  },
+  "Single-Leg_Lateral_Hop": {
+    "nameUk": "Бічні стрибки на одній нозі",
+    "popularity": 8
+  },
+  "Single-Leg_Leg_Extension": {
+    "nameUk": "Розгинання однієї ноги в тренажері",
+    "popularity": 4
+  },
+  "Single-Leg_Stride_Jump": {
+    "nameUk": "Вистрибування з однієї ноги з тумби",
+    "popularity": 9
+  },
+  "Single_Dumbbell_Raise": {
+    "nameUk": "Підйом гантелі перед собою двома руками",
+    "popularity": 7
+  },
+  "Single_Leg_Butt_Kick": {
+    "nameUk": "Стрибки з торканням п'ятою сідниці однією ногою",
+    "popularity": 8
+  },
+  "Single_Leg_Glute_Bridge": {
+    "nameUk": "Сідничний місток на одній нозі",
+    "popularity": 4
+  },
+  "Single_Leg_Push-off": {
+    "nameUk": "Відштовхування однією ногою від тумби",
+    "popularity": 8
+  },
+  "Sit-Up": {
+    "nameUk": "Підйом тулуба",
+    "popularity": 3
+  },
+  "Sit_Squats": {
+    "nameUk": "Неглибокі присідання (розминка)",
+    "popularity": 7
+  },
+  "Skating": {
+    "nameUk": "Катання на ковзанах",
+    "popularity": 7
+  },
+  "Sled_Drag_-_Harness": {
+    "nameUk": "Тяга саней в упряжі",
+    "popularity": 8
+  },
+  "Sled_Overhead_Backward_Walk": {
+    "nameUk": "Ходьба спиною вперед з тягою саней над головою",
+    "popularity": 9
+  },
+  "Sled_Overhead_Triceps_Extension": {
+    "nameUk": "Розгинання рук з-за голови з тягою саней",
+    "popularity": 9
+  },
+  "Sled_Push": {
+    "nameUk": "Штовхання саней",
+    "popularity": 5
+  },
+  "Sled_Reverse_Flye": {
+    "nameUk": "Зворотні розведення з тягою саней",
+    "popularity": 9
+  },
+  "Sled_Row": {
+    "nameUk": "Тяга саней до пояса",
+    "popularity": 8
+  },
+  "Sledgehammer_Swings": {
+    "nameUk": "Удари кувалдою",
+    "popularity": 6
+  },
+  "Smith_Incline_Shoulder_Raise": {
+    "nameUk": "Підйоми плечей на похилій лаві в тренажері Сміта",
+    "popularity": 9
+  },
+  "Smith_Machine_Behind_the_Back_Shrug": {
+    "nameUk": "Шраги за спиною в тренажері Сміта",
+    "popularity": 6
+  },
+  "Smith_Machine_Bench_Press": {
+    "nameUk": "Жим лежачи в тренажері Сміта",
+    "popularity": 3
+  },
+  "Smith_Machine_Bent_Over_Row": {
+    "nameUk": "Тяга в нахилі в тренажері Сміта",
+    "popularity": 5
+  },
+  "Smith_Machine_Calf_Raise": {
+    "nameUk": "Підйоми на носки стоячи в тренажері Сміта",
+    "popularity": 4
+  },
+  "Smith_Machine_Close-Grip_Bench_Press": {
+    "nameUk": "Жим лежачи вузьким хватом у тренажері Сміта",
+    "popularity": 5
+  },
+  "Smith_Machine_Decline_Press": {
+    "nameUk": "Жим на похилій лаві головою вниз у тренажері Сміта",
+    "popularity": 6
+  },
+  "Smith_Machine_Hang_Power_Clean": {
+    "nameUk": "Силове взяття на груди з вису в тренажері Сміта",
+    "popularity": 9
+  },
+  "Smith_Machine_Hip_Raise": {
+    "nameUk": "Підйом таза з упором ніг у гриф тренажера Сміта",
+    "popularity": 9
+  },
+  "Smith_Machine_Incline_Bench_Press": {
+    "nameUk": "Жим на похилій лаві в тренажері Сміта",
+    "popularity": 3
+  },
+  "Smith_Machine_Leg_Press": {
+    "nameUk": "Жим ногами в тренажері Сміта",
+    "popularity": 7
+  },
+  "Smith_Machine_One-Arm_Upright_Row": {
+    "nameUk": "Тяга до підборіддя однією рукою в тренажері Сміта",
+    "popularity": 8
+  },
+  "Smith_Machine_Overhead_Shoulder_Press": {
+    "nameUk": "Жим на плечі в тренажері Сміта",
+    "popularity": 3
+  },
+  "Smith_Machine_Pistol_Squat": {
+    "nameUk": "Присідання «пістолет» у тренажері Сміта",
+    "popularity": 8
+  },
+  "Smith_Machine_Reverse_Calf_Raises": {
+    "nameUk": "Зворотні підйоми на носки в тренажері Сміта",
+    "popularity": 8
+  },
+  "Smith_Machine_Squat": {
+    "nameUk": "Присідання в тренажері Сміта",
+    "popularity": 3
+  },
+  "Smith_Machine_Stiff-Legged_Deadlift": {
+    "nameUk": "Тяга на прямих ногах у тренажері Сміта",
+    "popularity": 5
+  },
+  "Smith_Machine_Upright_Row": {
+    "nameUk": "Тяга до підборіддя в тренажері Сміта",
+    "popularity": 5
+  },
+  "Smith_Single-Leg_Split_Squat": {
+    "nameUk": "Болгарські випади в тренажері Сміта",
+    "popularity": 5
+  },
+  "Snatch": {
+    "nameUk": "Ривок штанги",
+    "popularity": 6
+  },
+  "Snatch_Balance": {
+    "nameUk": "Ривковий баланс",
+    "popularity": 9
+  },
+  "Snatch_Deadlift": {
+    "nameUk": "Ривкова тяга",
+    "popularity": 8
+  },
+  "Snatch_Pull": {
+    "nameUk": "Ривкова тяга з підривом",
+    "popularity": 8
+  },
+  "Snatch_Shrug": {
+    "nameUk": "Ривкові шраги",
+    "popularity": 8
+  },
+  "Snatch_from_Blocks": {
+    "nameUk": "Ривок з плінтів",
+    "popularity": 9
+  },
+  "Speed_Band_Overhead_Triceps": {
+    "nameUk": "Швидкісне розгинання рук з-за голови з еспандером",
+    "popularity": 8
+  },
+  "Speed_Box_Squat": {
+    "nameUk": "Швидкісні присідання на ящик",
+    "popularity": 8
+  },
+  "Speed_Squats": {
+    "nameUk": "Швидкісні присідання зі штангою",
+    "popularity": 7
+  },
+  "Spell_Caster": {
+    "nameUk": "Вправа «чаклун» з гантелями",
+    "popularity": 9
+  },
+  "Spider_Crawl": {
+    "nameUk": "Хода «павук»",
+    "popularity": 8
+  },
+  "Spider_Curl": {
+    "nameUk": "Павучі згинання з EZ-грифом",
+    "popularity": 6
+  },
+  "Spinal_Stretch": {
+    "nameUk": "Розтяжка хребта",
+    "popularity": 7
+  },
+  "Split_Clean": {
+    "nameUk": "Взяття на груди в ножиці",
+    "popularity": 9
+  },
+  "Split_Jerk": {
+    "nameUk": "Поштовх у ножиці",
+    "popularity": 7
+  },
+  "Split_Jump": {
+    "nameUk": "Стрибки у випаді зі зміною ніг",
+    "popularity": 5
+  },
+  "Split_Snatch": {
+    "nameUk": "Ривок у ножиці",
+    "popularity": 9
+  },
+  "Split_Squat_with_Dumbbells": {
+    "nameUk": "Болгарські випади з гантелями",
+    "popularity": 3
+  },
+  "Split_Squats": {
+    "nameUk": "Випади зі стрибком і зміною ніг",
+    "popularity": 7
+  },
+  "Squat_Jerk": {
+    "nameUk": "Поштовх у сід",
+    "popularity": 9
+  },
+  "Squat_with_Bands": {
+    "nameUk": "Присідання зі штангою та еспандерами",
+    "popularity": 8
+  },
+  "Squat_with_Chains": {
+    "nameUk": "Присідання зі штангою та ланцюгами",
+    "popularity": 8
+  },
+  "Squat_with_Plate_Movers": {
+    "nameUk": "Присідання зі штангою з перенесенням дисків",
+    "popularity": 9
+  },
+  "Squats_-_With_Bands": {
+    "nameUk": "Присідання з еспандером",
+    "popularity": 6
+  },
+  "Stairmaster": {
+    "nameUk": "Степ-тренажер",
+    "popularity": 4
+  },
+  "Standing_Alternating_Dumbbell_Press": {
+    "nameUk": "Почерговий жим гантелей стоячи",
+    "popularity": 4
+  },
+  "Standing_Barbell_Calf_Raise": {
+    "nameUk": "Підйоми на носки зі штангою стоячи",
+    "popularity": 3
+  },
+  "Standing_Barbell_Press_Behind_Neck": {
+    "nameUk": "Жим штанги з-за голови стоячи",
+    "popularity": 6
+  },
+  "Standing_Bent-Over_One-Arm_Dumbbell_Triceps_Extension": {
+    "nameUk": "Розгинання руки з гантеллю на трицепс у нахилі",
+    "popularity": 4
+  },
+  "Standing_Bent-Over_Two-Arm_Dumbbell_Triceps_Extension": {
+    "nameUk": "Розгинання рук з гантелями на трицепс у нахилі",
+    "popularity": 5
+  },
+  "Standing_Biceps_Cable_Curl": {
+    "nameUk": "Згинання рук на біцепс на блоці стоячи",
+    "popularity": 3
+  },
+  "Standing_Biceps_Stretch": {
+    "nameUk": "Розтяжка біцепса стоячи",
+    "popularity": 7
+  },
+  "Standing_Bradford_Press": {
+    "nameUk": "Жим Бредфорда стоячи",
+    "popularity": 8
+  },
+  "Standing_Cable_Chest_Press": {
+    "nameUk": "Жим на груди на блоці стоячи",
+    "popularity": 6
+  },
+  "Standing_Cable_Lift": {
+    "nameUk": "Дроворуб на блоці знизу вгору",
+    "popularity": 6
+  },
+  "Standing_Cable_Wood_Chop": {
+    "nameUk": "Дроворуб на блоці стоячи",
+    "popularity": 5
+  },
+  "Standing_Calf_Raises": {
+    "nameUk": "Підйоми на носки стоячи в тренажері",
+    "popularity": 3
+  },
+  "Standing_Concentration_Curl": {
+    "nameUk": "Концентроване згинання з гантеллю стоячи",
+    "popularity": 6
+  },
+  "Standing_Dumbbell_Calf_Raise": {
+    "nameUk": "Підйоми на носки з гантелями стоячи",
+    "popularity": 4
+  },
+  "Standing_Dumbbell_Press": {
+    "nameUk": "Жим гантелей над головою стоячи",
+    "popularity": 3
+  },
+  "Standing_Dumbbell_Reverse_Curl": {
+    "nameUk": "Згинання рук з гантелями зворотним хватом стоячи",
+    "popularity": 5
+  },
+  "Standing_Dumbbell_Straight-Arm_Front_Delt_Raise_Above_Head": {
+    "nameUk": "Підйом гантелей прямими руками перед собою над головою",
+    "popularity": 7
+  },
+  "Standing_Dumbbell_Triceps_Extension": {
+    "nameUk": "Французький жим з гантеллю стоячи",
+    "popularity": 3
+  },
+  "Standing_Dumbbell_Upright_Row": {
+    "nameUk": "Тяга гантелей до підборіддя стоячи",
+    "popularity": 4
+  },
+  "Standing_Elevated_Quad_Stretch": {
+    "nameUk": "Розтяжка квадрицепса стоячи з ногою на підвищенні",
+    "popularity": 8
+  },
+  "Standing_Front_Barbell_Raise_Over_Head": {
+    "nameUk": "Підйом штанги перед собою над головою",
+    "popularity": 7
+  },
+  "Standing_Gastrocnemius_Calf_Stretch": {
+    "nameUk": "Розтяжка литкового м'яза стоячи",
+    "popularity": 6
+  },
+  "Standing_Hamstring_and_Calf_Stretch": {
+    "nameUk": "Розтяжка задньої поверхні стегна та литок стоячи",
+    "popularity": 6
+  },
+  "Standing_Hip_Circles": {
+    "nameUk": "Кругові рухи тазом стоячи",
+    "popularity": 7
+  },
+  "Standing_Hip_Flexors": {
+    "nameUk": "Розтяжка згиначів стегна стоячи",
+    "popularity": 6
+  },
+  "Standing_Inner-Biceps_Curl": {
+    "nameUk": "Згинання рук з гантелями стоячи з розворотом назовні",
+    "popularity": 6
+  },
+  "Standing_Lateral_Stretch": {
+    "nameUk": "Бічна розтяжка стоячи",
+    "popularity": 6
+  },
+  "Standing_Leg_Curl": {
+    "nameUk": "Згинання ноги стоячи в тренажері",
+    "popularity": 4
+  },
+  "Standing_Long_Jump": {
+    "nameUk": "Стрибок у довжину з місця",
+    "popularity": 5
+  },
+  "Standing_Low-Pulley_Deltoid_Raise": {
+    "nameUk": "Мах однією рукою в сторону з нижнього блоку",
+    "popularity": 5
+  },
+  "Standing_Low-Pulley_One-Arm_Triceps_Extension": {
+    "nameUk": "Розгинання руки на трицепс з-за голови з нижнього блоку стоячи",
+    "popularity": 7
+  },
+  "Standing_Military_Press": {
+    "nameUk": "Армійський жим штанги стоячи",
+    "popularity": 2
+  },
+  "Standing_Olympic_Plate_Hand_Squeeze": {
+    "nameUk": "Утримання олімпійського диска пальцями стоячи",
+    "popularity": 9
+  },
+  "Standing_One-Arm_Cable_Curl": {
+    "nameUk": "Згинання руки на блоці стоячи",
+    "popularity": 5
+  },
+  "Standing_One-Arm_Dumbbell_Curl_Over_Incline_Bench": {
+    "nameUk": "Згинання руки з гантеллю через похилу лаву стоячи",
+    "popularity": 7
+  },
+  "Standing_One-Arm_Dumbbell_Triceps_Extension": {
+    "nameUk": "Розгинання руки з гантеллю з-за голови стоячи",
+    "popularity": 5
+  },
+  "Standing_Overhead_Barbell_Triceps_Extension": {
+    "nameUk": "Французький жим зі штангою стоячи",
+    "popularity": 5
+  },
+  "Standing_Palm-In_One-Arm_Dumbbell_Press": {
+    "nameUk": "Жим гантелі однією рукою стоячи долонею всередину",
+    "popularity": 7
+  },
+  "Standing_Palms-In_Dumbbell_Press": {
+    "nameUk": "Жим гантелей стоячи долонями всередину",
+    "popularity": 5
+  },
+  "Standing_Palms-Up_Barbell_Behind_The_Back_Wrist_Curl": {
+    "nameUk": "Згинання зап'ясть зі штангою за спиною стоячи",
+    "popularity": 7
+  },
+  "Standing_Pelvic_Tilt": {
+    "nameUk": "Нахил таза стоячи",
+    "popularity": 8
+  },
+  "Standing_Rope_Crunch": {
+    "nameUk": "Скручування стоячи на блоці з канатною рукояткою",
+    "popularity": 6
+  },
+  "Standing_Soleus_And_Achilles_Stretch": {
+    "nameUk": "Розтяжка камбалоподібного м'яза та ахіллового сухожилля стоячи",
+    "popularity": 7
+  },
+  "Standing_Toe_Touches": {
+    "nameUk": "Нахили до носків стоячи",
+    "popularity": 5
+  },
+  "Standing_Towel_Triceps_Extension": {
+    "nameUk": "Розгинання рук на трицепс з рушником стоячи",
+    "popularity": 8
+  },
+  "Standing_Two-Arm_Overhead_Throw": {
+    "nameUk": "Кидок медболу двома руками з-за голови стоячи",
+    "popularity": 7
+  },
+  "Star_Jump": {
+    "nameUk": "Стрибок «зірка»",
+    "popularity": 5
+  },
+  "Step-up_with_Knee_Raise": {
+    "nameUk": "Підйом на платформу з підйомом коліна",
+    "popularity": 5
+  },
+  "Step_Mill": {
+    "nameUk": "Тренажер-сходи",
+    "popularity": 5
+  },
+  "Stiff-Legged_Barbell_Deadlift": {
+    "nameUk": "Тяга зі штангою на прямих ногах",
+    "popularity": 3
+  },
+  "Stiff-Legged_Dumbbell_Deadlift": {
+    "nameUk": "Тяга з гантелями на прямих ногах",
+    "popularity": 4
+  },
+  "Stiff_Leg_Barbell_Good_Morning": {
+    "nameUk": "Нахили «гуд монінг» зі штангою на прямих ногах",
+    "popularity": 9
+  },
+  "Stomach_Vacuum": {
+    "nameUk": "Вакуум живота",
+    "popularity": 6
+  },
+  "Straight-Arm_Dumbbell_Pullover": {
+    "nameUk": "Пуловер з гантеллю на прямих руках",
+    "popularity": 4
+  },
+  "Straight-Arm_Pulldown": {
+    "nameUk": "Пуловер на блоці стоячи",
+    "popularity": 3
+  },
+  "Straight_Bar_Bench_Mid_Rows": {
+    "nameUk": "Тяга штанги в нахилі стоячи на лаві",
+    "popularity": 8
+  },
+  "Straight_Raises_on_Incline_Bench": {
+    "nameUk": "Підйоми штанги прямими руками лежачи на похилій лаві",
+    "popularity": 8
+  },
+  "Stride_Jump_Crossover": {
+    "nameUk": "Стрибки через тумбу з переступанням",
+    "popularity": 9
+  },
+  "Sumo_Deadlift": {
+    "nameUk": "Станова тяга сумо",
+    "popularity": 3
+  },
+  "Sumo_Deadlift_with_Bands": {
+    "nameUk": "Станова тяга сумо з еспандерами",
+    "popularity": 8
+  },
+  "Sumo_Deadlift_with_Chains": {
+    "nameUk": "Станова тяга сумо з ланцюгами",
+    "popularity": 8
+  },
+  "Superman": {
+    "nameUk": "Супермен",
+    "popularity": 5
+  },
+  "Supine_Chest_Throw": {
+    "nameUk": "Кидок медболу від грудей лежачи",
+    "popularity": 8
+  },
+  "Supine_One-Arm_Overhead_Throw": {
+    "nameUk": "Кидок медболу однією рукою з-за голови лежачи",
+    "popularity": 9
+  },
+  "Supine_Two-Arm_Overhead_Throw": {
+    "nameUk": "Кидок медболу двома руками з-за голови лежачи",
+    "popularity": 8
+  },
+  "Suspended_Fallout": {
+    "nameUk": "Прокатка преса в підвісних петлях",
+    "popularity": 8
+  },
+  "Suspended_Push-Up": {
+    "nameUk": "Віджимання в підвісних петлях",
+    "popularity": 6
+  },
+  "Suspended_Reverse_Crunch": {
+    "nameUk": "Зворотні скручування в підвісних петлях",
+    "popularity": 7
+  },
+  "Suspended_Row": {
+    "nameUk": "Тяга в підвісних петлях",
+    "popularity": 5
+  },
+  "Suspended_Split_Squat": {
+    "nameUk": "Болгарські випади в підвісних петлях",
+    "popularity": 7
+  },
+  "Svend_Press": {
+    "nameUk": "Жим Свенда",
+    "popularity": 7
+  },
+  "T-Bar_Row_with_Handle": {
+    "nameUk": "Тяга Т-грифа з V-рукояткою",
+    "popularity": 3
+  },
+  "Tate_Press": {
+    "nameUk": "Жим Тейта",
+    "popularity": 8
+  },
+  "The_Straddle": {
+    "nameUk": "Розтяжка сидячи з ногами нарізно",
+    "popularity": 7
+  },
+  "Thigh_Abductor": {
+    "nameUk": "Розведення ніг у тренажері",
+    "popularity": 3
+  },
+  "Thigh_Adductor": {
+    "nameUk": "Зведення ніг у тренажері",
+    "popularity": 3
+  },
+  "Tire_Flip": {
+    "nameUk": "Перевертання шини",
+    "popularity": 7
+  },
+  "Toe_Touchers": {
+    "nameUk": "Торкання носків лежачи",
+    "popularity": 6
+  },
+  "Torso_Rotation": {
+    "nameUk": "Повороти корпусу на фітболі",
+    "popularity": 8
+  },
+  "Trail_Running_Walking": {
+    "nameUk": "Біг або ходьба по пересіченій місцевості",
+    "popularity": 6
+  },
+  "Trap_Bar_Deadlift": {
+    "nameUk": "Станова тяга з трап-грифом",
+    "popularity": 3
+  },
+  "Tricep_Dumbbell_Kickback": {
+    "nameUk": "Розгинання руки з гантеллю в нахилі з упором у лаву (кікбек)",
+    "popularity": 3
+  },
+  "Tricep_Side_Stretch": {
+    "nameUk": "Бічна розтяжка трицепса",
+    "popularity": 6
+  },
+  "Triceps_Overhead_Extension_with_Rope": {
+    "nameUk": "Розгинання рук з-за голови з канатом спиною до блоку",
+    "popularity": 4
+  },
+  "Triceps_Pushdown": {
+    "nameUk": "Розгинання рук на трицепс на блоці",
+    "popularity": 2
+  },
+  "Triceps_Pushdown_-_Rope_Attachment": {
+    "nameUk": "Розгинання рук на трицепс на блоці з канатною рукояткою",
+    "popularity": 2
+  },
+  "Triceps_Pushdown_-_V-Bar_Attachment": {
+    "nameUk": "Розгинання рук на трицепс на блоці з V-подібною рукояткою",
+    "popularity": 3
+  },
+  "Triceps_Stretch": {
+    "nameUk": "Розтяжка трицепса",
+    "popularity": 5
+  },
+  "Tuck_Crunch": {
+    "nameUk": "Скручування з підтягуванням колін до грудей",
+    "popularity": 5
+  },
+  "Two-Arm_Dumbbell_Preacher_Curl": {
+    "nameUk": "Згинання рук з гантелями на лаві Скотта",
+    "popularity": 4
+  },
+  "Two-Arm_Kettlebell_Clean": {
+    "nameUk": "Взяття двох гир на груди",
+    "popularity": 7
+  },
+  "Two-Arm_Kettlebell_Jerk": {
+    "nameUk": "Поштовх двох гир із взяттям на груди",
+    "popularity": 8
+  },
+  "Two-Arm_Kettlebell_Military_Press": {
+    "nameUk": "Армійський жим двох гир",
+    "popularity": 7
+  },
+  "Two-Arm_Kettlebell_Row": {
+    "nameUk": "Тяга двох гир у нахилі",
+    "popularity": 6
+  },
+  "Underhand_Cable_Pulldowns": {
+    "nameUk": "Тяга верхнього блоку зворотним хватом",
+    "popularity": 3
+  },
+  "Upper_Back-Leg_Grab": {
+    "nameUk": "Розтяжка верхньої частини спини із захопленням ніг",
+    "popularity": 8
+  },
+  "Upper_Back_Stretch": {
+    "nameUk": "Розтяжка верхньої частини спини",
+    "popularity": 6
+  },
+  "Upright_Barbell_Row": {
+    "nameUk": "Тяга штанги до підборіддя",
+    "popularity": 3
+  },
+  "Upright_Cable_Row": {
+    "nameUk": "Тяга до підборіддя на блоці",
+    "popularity": 5
+  },
+  "Upright_Row_-_With_Bands": {
+    "nameUk": "Тяга до підборіддя з еспандером",
+    "popularity": 6
+  },
+  "Upward_Stretch": {
+    "nameUk": "Розтяжка з руками вгору",
+    "popularity": 7
+  },
+  "V-Bar_Pulldown": {
+    "nameUk": "Тяга верхнього блоку з V-подібною рукояткою",
+    "popularity": 3
+  },
+  "V-Bar_Pullup": {
+    "nameUk": "Підтягування з V-подібною рукояткою",
+    "popularity": 6
+  },
+  "Vertical_Swing": {
+    "nameUk": "Вертикальні махи гантеллю",
+    "popularity": 7
+  },
+  "Walking_Treadmill": {
+    "nameUk": "Ходьба на біговій доріжці",
+    "popularity": 2
+  },
+  "Weighted_Ball_Hyperextension": {
+    "nameUk": "Гіперекстензія з обтяженням на фітболі",
+    "popularity": 7
+  },
+  "Weighted_Ball_Side_Bend": {
+    "nameUk": "Бічні нахили з обтяженням на фітболі",
+    "popularity": 7
+  },
+  "Weighted_Bench_Dip": {
+    "nameUk": "Зворотні віджимання від лави з обтяженням",
+    "popularity": 5
+  },
+  "Weighted_Crunches": {
+    "nameUk": "Скручування з обтяженням",
+    "popularity": 4
+  },
+  "Weighted_Jump_Squat": {
+    "nameUk": "Присідання з вистрибуванням зі штангою",
+    "popularity": 6
+  },
+  "Weighted_Pull_Ups": {
+    "nameUk": "Підтягування з обтяженням",
+    "popularity": 4
+  },
+  "Weighted_Sissy_Squat": {
+    "nameUk": "Сіссі-присідання з обтяженням",
+    "popularity": 8
+  },
+  "Weighted_Sit-Ups_-_With_Bands": {
+    "nameUk": "Підйом тулуба на похилій лаві з еспандерами",
+    "popularity": 8
+  },
+  "Weighted_Squat": {
+    "nameUk": "Присідання з обтяженням на поясі між лавами",
+    "popularity": 6
+  },
+  "Wide-Grip_Barbell_Bench_Press": {
+    "nameUk": "Жим штанги лежачи широким хватом",
+    "popularity": 3
+  },
+  "Wide-Grip_Decline_Barbell_Bench_Press": {
+    "nameUk": "Жим штанги широким хватом на похилій лаві головою вниз",
+    "popularity": 7
+  },
+  "Wide-Grip_Decline_Barbell_Pullover": {
+    "nameUk": "Пуловер зі штангою широким хватом на похилій лаві головою вниз",
+    "popularity": 8
+  },
+  "Wide-Grip_Lat_Pulldown": {
+    "nameUk": "Тяга верхнього блоку широким хватом",
+    "popularity": 2
+  },
+  "Wide-Grip_Pulldown_Behind_The_Neck": {
+    "nameUk": "Тяга верхнього блоку широким хватом за голову",
+    "popularity": 5
+  },
+  "Wide-Grip_Rear_Pull-Up": {
+    "nameUk": "Підтягування широким хватом за голову",
+    "popularity": 5
+  },
+  "Wide-Grip_Standing_Barbell_Curl": {
+    "nameUk": "Згинання рук зі штангою широким хватом стоячи",
+    "popularity": 4
+  },
+  "Wide_Stance_Barbell_Squat": {
+    "nameUk": "Присідання зі штангою з широкою постановкою ніг",
+    "popularity": 4
+  },
+  "Wide_Stance_Stiff_Legs": {
+    "nameUk": "Тяга на прямих ногах з широкою постановкою ніг",
+    "popularity": 7
+  },
+  "Wind_Sprints": {
+    "nameUk": "Спринтерські прискорення",
+    "popularity": 6
+  },
+  "Windmills": {
+    "nameUk": "Розтяжка «млин»",
+    "popularity": 8
+  },
+  "Worlds_Greatest_Stretch": {
+    "nameUk": "Найкраща розтяжка у світі",
+    "popularity": 6
+  },
+  "Wrist_Circles": {
+    "nameUk": "Кругові рухи зап'ястями",
+    "popularity": 7
+  },
+  "Wrist_Roller": {
+    "nameUk": "Ролик для зап'ясть (намотування вантажу)",
+    "popularity": 6
+  },
+  "Wrist_Rotations_with_Straight_Bar": {
+    "nameUk": "Обертання зап'ясть з грифом",
+    "popularity": 8
+  },
+  "Yoke_Walk": {
+    "nameUk": "Хода з коромислом (йоук)",
+    "popularity": 9
+  },
+  "Zercher_Squats": {
+    "nameUk": "Присідання Зерчера",
+    "popularity": 7
+  },
+  "Zottman_Curl": {
+    "nameUk": "Згинання Зоттмана",
+    "popularity": 6
+  },
+  "Zottman_Preacher_Curl": {
+    "nameUk": "Згинання Зоттмана на лаві Скотта",
+    "popularity": 8
+  }
+}

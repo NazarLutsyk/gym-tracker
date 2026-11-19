@@ -1,0 +1,47 @@
+{
+  "type": "diff",
+  "version": "9",
+  "dialect": "postgres",
+  "id": "636496a0-cd05-413a-9273-5d0e7a9f8f65",
+  "prevIds": [
+    "87c424e4-2827-4c8b-b658-1fba65b3584a"
+  ],
+  "footprints": [
+    {
+      "statementType": "add_column",
+      "statementTarget": [
+        "column",
+        "public",
+        "workout_sets",
+        "unplanned"
+      ],
+      "writes": [
+        "s|col|public.workout_sets.unplanned",
+        "n|col|public.workout_sets.unplanned",
+        "e|col|public.workout_sets.unplanned"
+      ],
+      "reads": [
+        "n|tbl|public.workout_sets",
+        "n|sch|public"
+      ]
+    }
+  ],
+  "deltas": [
+    {
+      "op": "create",
+      "row": {
+        "schema": "public",
+        "table": "workout_sets",
+        "name": "unplanned",
+        "type": "boolean",
+        "typeSchema": null,
+        "notNull": true,
+        "dimensions": 0,
+        "default": "false",
+        "generated": null,
+        "identity": null,
+        "entityType": "columns"
+      }
+    }
+  ]
+}
